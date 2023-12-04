@@ -2,7 +2,8 @@
 
 import re
 
-fname = "calibration.txt"
+#fname = "test.txt"
+fname = "input.txt"
 
 pattern_single = r"^\w*?(\d{1})\w*?$"
 pattern_double = r"^\w*?(\d{1}).*(\d{1})\w*?$"
