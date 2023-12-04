@@ -1,0 +1,3861 @@
+{2: '4'}
+{0: '5', 8: '5'}
+55 :  5ffour295
+
+{10: '2', 14: '7', 20: '7'}
+{1: '9', 19: '4'}
+97 :  m9qvkqlgfhtwo3seven4seven
+
+{7: '6'}
+{0: '2', 6: '1'}
+26 :  2vdqng1sixzjlkjvq
+
+{14: '1', 1: '2', 17: '5', 8: '8', 4: '9'}
+{0: '5', 13: '3'}
+55 :  5twonineeight3onefive
+
+{1: '3', 7: '7', 12: '8', 17: '7'}
+{0: '2', 6: '2'}
+27 :  2three2seveneightseven
+
+{18: '2', 10: '5', 5: '7', 0: '8'}
+{14: '3'}
+82 :  eightsevenfive3bcptwo
+
+{0: '5', 5: '6'}
+{4: '8'}
+56 :  five8six
+
+{14: '1', 0: '2', 7: '7', 3: '9'}
+{12: '2', 17: '3'}
+23 :  twonineseven24one3
+
+{0: '1', 16: '4', 12: '9'}
+{3: '8'}
+14 :  one8bdxplbtfninefourspqn
+
+{10: '5', 14: '7', 4: '8', 0: '9'}
+{9: '3'}
+97 :  nineeight3fiveseven
+
+{15: '5', 30: '5'}
+{7: '6', 8: '4'}
+65 :  xmkhttr64htgvhjfivefcjlzjqrsjlfivekbcnhqpzg
+
+{7: '3'}
+{0: '2', 2: '1'}
+23 :  261flvsthree
+
+{0: '1', 20: '8'}
+{3: '2', 13: '5'}
+18 :  one2mgnphzcx45rmnffneight
+
+{15: '1', 5: '5', 9: '6', 0: '7'}
+{18: '8', 20: '1'}
+71 :  sevenfivesixzvpone8f1plj
+
+{8: '6'}
+{7: '6', 11: '3'}
+63 :  ccthpbg6six3
+
+{1: '1', 6: '5'}
+15 :  f1hzds5kfdsj
+
+{7: '2', 10: '4', 3: '8', 14: '9', 27: '8'}
+{26: '8'}
+88 :  qkneightwofourninejzjfmkjv8eightthdtp
+
+{15: '2', 18: '7', 0: '8', 23: '2'}
+{5: '6', 27: '8'}
+88 :  eight62rvkjphrdtwoseventwo28
+
+{0: '8'}
+{5: '3', 6: '3'}
+83 :  eight33
+
+{14: '1', 0: '7'}
+{11: '5'}
+71 :  sevenkzvnkj5ftone
+
+{11: '3', 2: '6', 16: '3'}
+{0: '7', 22: '2'}
+72 :  76sixrcznjkthreethree72nf
+
+{2: '9'}
+{0: '5'}
+59 :  5nnine
+
+{8: '3', 3: '7'}
+{0: '3'}
+33 :  3cjseventhreen
+
+{0: '6', 3: '6'}
+{6: '1', 7: '8'}
+68 :  sixsix18ctxvtxbs
+
+{16: '2', 7: '3'}
+{0: '7', 6: '9'}
+72 :  7mksmd9threetnkbtwo
+
+{0: '7', 8: '8'}
+78 :  7hxnrgnl8
+
+{19: '1', 10: '5'}
+{2: '3', 22: '7'}
+37 :  vq3dcgtlzgfives8kthone7
+
+{13: '4'}
+{0: '7', 1: '6'}
+74 :  76tmpjjvbzzclfour
+
+{3: '1', 1: '2', 11: '3', 6: '5', 27: '7', 32: '7'}
+{10: '2'}
+27 :  ptwonefive2threekfrtvnbmplpsevenseven
+
+{5: '1', 2: '6'}
+{0: '7', 1: '9'}
+71 :  79sixone
+
+{2: '8'}
+{14: '6'}
+86 :  mheightfhllpvk6rdnrznkndp
+
+{1: '6'}
+{0: '7', 18: '9'}
+79 :  7sixfjsspxhljrtsz39szdtsrfkh
+
+{4: '2', 19: '3', 15: '6'}
+{0: '3', 24: '3'}
+33 :  3prqtwolcljdhcksix6three3gjkvcsz
+
+{12: '1'}
+{0: '3', 1: '1'}
+31 :  31vjpsdqlncjone
+
+{9: '5'}
+{0: '2'}
+25 :  2qhbsjcxqfive
+
+{9: '7', 14: '8'}
+{8: '2', 19: '2'}
+22 :  cccgsqgj2seveneight2
+
+{5: '3', 0: '8', 18: '3'}
+{10: '6', 11: '5'}
+83 :  eightthree65tbhvpnthree
+
+{19: '3', 10: '5', 3: '8'}
+{8: '2', 25: '7'}
+87 :  ltpeight27fivethxzjthree27
+
+{1: '3', 8: '4'}
+34 :  m31cxstb4
+
+{6: '1', 15: '3'}
+{20: '2'}
+12 :  xfmnzconevzmzkcthree2
+
+{0: '8', 2: '7'}
+87 :  837
+
+{2: '1'}
+{5: '7', 19: '2'}
+12 :  vjone779jzskrxqgkrd2
+
+{4: '8'}
+{3: '9'}
+98 :  rgd9eight
+
+{1: '1', 4: '2', 9: '1'}
+{0: '3', 8: '4'}
+31 :  3onetwo34one
+
+{24: '2', 0: '3', 20: '5', 28: '7'}
+{14: '8', 27: '2'}
+37 :  threeffthlxtmc8zfpl7fivetwo2seven
+
+{0: '2'}
+{3: '6'}
+26 :  two6rxqghhnnthm
+
+{0: '9', 8: '4'}
+94 :  9gfjhhlc4hlpcc
+
+{20: '4'}
+{4: '9', 19: '9'}
+94 :  glcj9zdnfkrnfcvqqhr9four
+
+{9: '4', 0: '7'}
+{5: '6', 8: '4'}
+74 :  seven6564four
+
+{15: '5'}
+{0: '3', 14: '7'}
+35 :  3lrlkmqbvllqpn7fivedmmqhk
+
+{1: '5', 11: '8', 5: '5', 16: '8'}
+{0: '8', 21: '3'}
+83 :  8fivefiver3eighteight3
+
+{6: '3', 1: '8'}
+{0: '3'}
+33 :  3eightthree
+
+{9: '4', 5: '5'}
+{13: '3', 18: '3'}
+53 :  bhzsjfivefour391753
+
+{18: '5', 5: '6', 0: '9', 8: '6'}
+{4: '5', 22: '8'}
+98 :  nine5sixsix4jrqdljfive8
+
+{0: '3', 5: '9', 9: '9'}
+{13: '6', 21: '8'}
+38 :  threeninenine68gkjlrh8n
+
+{15: '1', 22: '7', 27: '8', 11: '9'}
+{0: '7'}
+78 :  7vdprdhrmbrnineonektjpseveneight
+
+{8: '3'}
+{0: '3', 13: '1'}
+31 :  3prjtkg6three1
+
+{18: '7', 0: '9', 13: '9'}
+{4: '5', 17: '2'}
+97 :  nine5rnbxdsgdnine2seven
+
+{0: '3'}
+{6: '6'}
+36 :  threes6
+
+{0: '6', 8: '7'}
+67 :  62zzbgfq7
+
+{0: '5'}
+55 :  5hbcvdhslxb
+
+{17: '1', 23: '1'}
+{0: '6'}
+61 :  6msfzlhmksplcbmrqoneoneone
+
+{1: '7', 6: '9'}
+{0: '4', 10: '3'}
+43 :  4sevennine3
+
+{6: '3', 0: '5', 21: '3'}
+{4: '9', 16: '7'}
+53 :  five99threezmxsj7sqbtthree
+
+{7: '3'}
+{0: '5', 6: '2'}
+53 :  56vbt42three
+
+{0: '1', 1: '2'}
+12 :  12fjlcvkgcv
+
+{21: '1', 29: '2', 18: '6'}
+{17: '7', 26: '5'}
+72 :  dnsdbrphqhrthmqtm7sixonezv5fgtwo
+
+{7: '4', 1: '7'}
+{0: '5', 6: '5'}
+54 :  5seven5fourlhgb
+
+{14: '1', 4: '2', 9: '3', 0: '5', 18: '8'}
+{7: '2', 23: '3'}
+53 :  fivetwo26threeone7eight3
+
+{8: '5', 13: '8', 19: '5'}
+{12: '4', 18: '2'}
+55 :  lxlzzhfkfive4eight2fivezqkdxczbmndvflrsq
+
+{12: '1', 6: '7', 2: '9'}
+{0: '7', 16: '8'}
+78 :  71nineseven5one58
+
+{0: '5', 26: '9', 31: '5'}
+{16: '5', 30: '3'}
+55 :  fivelncljrgtxkdq51gnnpvtsbnine3five
+
+{25: '1', 23: '2', 19: '4'}
+{10: '5', 18: '4'}
+51 :  mjlrpthgvz57skzbs24fourtwoneklr
+
+{8: '5'}
+{6: '3', 7: '9'}
+35 :  njqlhp39five
+
+{6: '1', 9: '2'}
+{0: '8'}
+82 :  8xxmstonetwolhlcgzcpqb
+
+{7: '5'}
+{0: '8'}
+85 :  8gjqlbgfive
+
+{12: '7'}
+{11: '8'}
+87 :  xcdssbrltmf8sevenkxntdzgfsv
+
+{34: '7', 6: '8', 19: '9', 23: '9'}
+{39: '7'}
+87 :  vhgjfxeightvfvpgcxsnineninepkrjtqtseven7
+
+{0: '2', 14: '5', 18: '2'}
+{3: '3', 13: '7'}
+22 :  two3ztllvnrmg7fivetwo
+
+{18: '1', 12: '3', 0: '5', 8: '5'}
+{4: '1', 17: '1'}
+51 :  five1jspfivethree1one
+
+{0: '5'}
+55 :  5stkpqcjhxvmrn
+
+{0: '3', 11: '4', 6: '6'}
+{5: '3', 10: '2'}
+34 :  three3six12fourkdmlgfbflm
+
+{15: '1', 19: '4', 1: '6', 4: '8'}
+{0: '7', 18: '7'}
+74 :  7sixeightnnjnc4one7four
+
+{0: '4', 11: '9'}
+49 :  4bqszrqnfzl9nlp
+
+{0: '2', 4: '3'}
+{3: '3'}
+23 :  two3threesnjpncrjljpcxhjdzxqcjcjbktvxjgvnfp
+
+{2: '2'}
+{0: '3', 1: '6'}
+32 :  36tworrhlh
+
+{0: '4', 1: '3'}
+43 :  43trbqvgrrsjbrxhk
+
+{6: '5', 0: '8'}
+{5: '7'}
+85 :  eight7five
+
+{13: '3', 0: '4', 7: '8'}
+{4: '9', 12: '8'}
+43 :  four934eight8three
+
+{20: '6', 23: '6'}
+{0: '9', 19: '5'}
+96 :  9zjzhmtkt4bvljpttc25sixsix
+
+{0: '2', 3: '2'}
+{15: '2', 24: '1'}
+21 :  twotwocmzcczsjz2qcslmnjl1pqfjqfhlpmtjlpzpjhffxr
+
+{2: '7'}
+{0: '4'}
+47 :  4fseven
+
+{0: '7', 9: '9', 16: '9'}
+{15: '8'}
+79 :  sevennvxlnineph8ninefqbm
+
+{4: '5'}
+{0: '2', 9: '2'}
+22 :  2611five42
+
+{0: '2', 4: '9'}
+{3: '7'}
+29 :  two7nine
+
+{6: '4', 1: '8'}
+{0: '7', 14: '9'}
+79 :  7eightfour7gh19
+
+{14: '1', 17: '2', 10: '9'}
+{0: '7', 1: '1'}
+72 :  71kzdvkfbqnineonetwo
+
+{0: '1', 3: '6', 6: '9'}
+{10: '3', 12: '5'}
+15 :  onesixnine325
+
+{0: '5', 8: '4'}
+54 :  5cbtbckx4vhtslbk
+
+{14: '7', 0: '8'}
+{13: '5'}
+87 :  eightdgczsgkc5seventlsfd
+
+{25: '4'}
+{23: '7', 24: '3'}
+74 :  xdljsnqjctzmmxcgxctdxxg73four
+
+{29: '3'}
+{0: '2', 10: '5'}
+23 :  2shjqglxct5rctbmgvfvjfvrqsvdmthree
+
+{7: '1', 0: '3'}
+{5: '7', 15: '8'}
+38 :  three71onekbksz8
+
+{21: '2', 4: '7', 0: '9', 17: '9'}
+{29: '3', 30: '9'}
+99 :  ninesevenzrcxnnbvninetwoftsvg39
+
+{0: '2', 3: '4'}
+{7: '3', 8: '6'}
+26 :  twofour36
+
+{0: '1', 19: '2'}
+{18: '9'}
+12 :  onerddzfgdnpkjxlbh9twojbtqk
+
+{17: '6', 3: '9'}
+{7: '5', 8: '9'}
+96 :  jjcnine59lgcttxncsix
+
+{9: '1', 4: '7', 0: '9', 21: '1'}
+{12: '7', 13: '6'}
+91 :  ninesevenone76zrtmvdponeprfszns
+
+{4: '2', 18: '2'}
+{22: '7'}
+27 :  bzrxtwocqczcmkdlnjtwor7
+
+{12: '1', 0: '6', 16: '8'}
+{9: '9', 15: '5'}
+68 :  sixjqcgcl973one5eight
+
+{6: '2', 10: '3', 2: '8'}
+{9: '7'}
+83 :  freightwo7three
+
+{6: '3'}
+{20: '7', 30: '6'}
+36 :  dnzdrnthreemlqvrjspl79kfkfrbjm6czkzqvqp
+
+{0: '2'}
+{3: '7', 6: '3'}
+23 :  two7953mftrgpkxjmrpvn
+
+{1: '1', 24: '2'}
+{4: '4', 27: '4'}
+14 :  xone4vqljzqrspsgdhvnsgsptwo4
+
+{7: '3'}
+{0: '2', 3: '2'}
+23 :  2612fvhthree
+
+{0: '1', 4: '9'}
+{3: '3'}
+19 :  one3nine
+
+{6: '1', 9: '2', 1: '5'}
+{0: '8', 5: '9'}
+82 :  8five9onetwo
+
+{4: '2', 0: '4', 9: '6'}
+{7: '4', 8: '5'}
+46 :  fourtwo45sixxkjgdvrpltlnrtdbbpjjmqq
+
+{9: '1', 0: '4', 5: '5', 12: '9'}
+{4: '1', 16: '6'}
+46 :  four1fiveonenine6
+
+{1: '3'}
+{0: '4', 6: '4'}
+44 :  4three4
+
+{19: '2', 10: '8'}
+{18: '8'}
+82 :  qkjpskjglpeightjnc8two
+
+{10: '4', 7: '6', 0: '8'}
+{5: '8', 6: '5'}
+84 :  eight85sixfour
+
+{2: '5', 6: '5'}
+{0: '5', 1: '3'}
+55 :  53fivefive
+
+{28: '4', 25: '6'}
+{24: '6'}
+64 :  lbmqqpdbpnppzzmttmbpkxbl6sixfour
+
+{0: '9'}
+{7: '7'}
+97 :  ninemlm7
+
+{6: '2'}
+22 :  mbvxvl2
+
+{0: '1'}
+11 :  1vpszgjvdbd
+
+{8: '1', 4: '2', 11: '7'}
+{0: '7', 7: '3'}
+77 :  7qd7two3onesevenkkgnnlztzxs
+
+{6: '9'}
+{5: '1', 19: '1'}
+11 :  cqrnn1ninefxpglvtkf1
+
+{24: '4', 1: '6', 28: '6'}
+{0: '7', 17: '6'}
+76 :  7sixvnknzqpnhvsix6tbfnljfoursixrjzqxctmq
+
+{7: '4', 0: '5'}
+{4: '8', 6: '9'}
+54 :  five889four
+
+{15: '4', 11: '5'}
+{0: '5', 5: '7'}
+54 :  5rvsk7tsljtfivefour
+
+{11: '8'}
+{6: '6', 16: '9'}
+69 :  prkhvq61clveight9dcvcfsr
+
+{0: '4', 5: '9'}
+{4: '6', 11: '2'}
+42 :  four6ninenp2
+
+{1: '1', 9: '5', 3: '8'}
+{8: '2', 18: '6'}
+16 :  xoneight2five3fqmc6zrgcbzbzghpvbzt
+
+{9: '5', 0: '6', 25: '5'}
+{18: '5'}
+65 :  sixghxgbjfivesxrth5frzxcjfivegnktshzrpmbdlp
+
+{7: '7'}
+{0: '6', 20: '8'}
+68 :  6prgnxdseven2ggcqhc88
+
+{0: '5'}
+{4: '4', 5: '6'}
+56 :  five46
+
+{16: '3', 21: '5', 25: '6', 11: '7'}
+{0: '4', 29: '6'}
+46 :  4bmvzlbcsggseventhreefivesix66
+
+{15: '4'}
+44 :  pzkljhppcmpnnng4
+
+{4: '5', 0: '9'}
+{24: '5', 25: '5'}
+95 :  ninefivemqnjsmkgtnzzstrq55
+
+{0: '1', 19: '2', 6: '8'}
+{3: '4', 23: '7'}
+17 :  one4lveightqjhjjzmrtwo97sctp
+
+{0: '3'}
+33 :  3vzdmk
+
+{4: '7', 8: '5'}
+75 :  lrzj71215
+
+{0: '3'}
+{5: '7', 28: '5'}
+35 :  three78ddzzmvfxfzsqtkdqtfsnk5
+
+{2: '7'}
+77 :  db7
+
+{5: '2', 8: '4', 24: '6', 1: '8', 20: '4', 13: '8'}
+{12: '9', 19: '3'}
+86 :  deightwofour9eight63foursixcgllm
+
+{0: '1', 2: '3'}
+13 :  123
+
+{0: '7', 5: '9'}
+{21: '6', 32: '4'}
+74 :  sevenninegtphtjkkbhdx6sqbggcbljx4
+
+{0: '8', 4: '4'}
+84 :  8qtk4
+
+{20: '3', 15: '5'}
+{5: '9', 19: '2'}
+93 :  thvml91nngfjgrsfive2three
+
+{8: '2', 2: '9'}
+{0: '1', 7: '2'}
+12 :  17nine92twojkvmfrmpqhtlk
+
+{4: '2', 0: '9'}
+{13: '7', 14: '6'}
+96 :  ninetworcvtjc76
+
+{0: '5', 21: '8'}
+58 :  5jrzpvgchg7tlfdlbfmxj8stb
+
+{3: '6'}
+{0: '3', 2: '6'}
+36 :  3t6sixjtnjxhxnfv
+
+{10: '3', 15: '9'}
+{0: '9', 2: '2'}
+99 :  9f2skxmzgnthreenine
+
+{6: '1', 9: '3', 19: '6', 1: '7', 14: '8', 22: '3'}
+{0: '8'}
+83 :  8sevenonethreeeightsixthree
+
+{15: '3', 21: '4'}
+{25: '8', 26: '6'}
+36 :  csrcdmtmscqvqkpthreepfour86
+
+{0: '3', 15: '4', 5: '7', 10: '8', 23: '4'}
+{19: '5'}
+34 :  threeseveneightfour5zsgfour
+
+{0: '1', 9: '7'}
+{14: '9'}
+19 :  onellbgsvseven9
+
+{10: '3', 22: '3'}
+{9: '1'}
+13 :  rnnkxtbnx1threekbddbpzthreerxcnbcgx
+
+{16: '1', 20: '4', 8: '6'}
+{14: '6', 19: '5'}
+64 :  jbvlsxdxsixxjj65one5fours
+
+{2: '6'}
+{5: '4', 8: '8'}
+68 :  kzsix4zg8fgmzc
+
+{10: '3', 11: '7'}
+37 :  mkfpflcpkd37
+
+{16: '2', 4: '3', 9: '5', 1: '6', 21: '8'}
+{0: '5', 20: '4'}
+58 :  5sixthreefivectltwo94eight
+
+{2: '1', 4: '8'}
+{9: '8', 10: '6'}
+16 :  fponeight86phxr
+
+{0: '2', 11: '2'}
+22 :  278dmxscxb42
+
+{0: '5'}
+{4: '8', 5: '6'}
+56 :  five86
+
+{7: '6', 10: '9'}
+{0: '6', 14: '1'}
+61 :  63jqkh7sixnine1jmqsqtdhpg
+
+{13: '9'}
+99 :  zxchvfnvskctd9
+
+{11: '5'}
+{0: '6', 26: '4'}
+64 :  64sgddnvnm6five37rzhpzlccz4
+
+{12: '9'}
+{0: '6', 27: '4'}
+64 :  69nzlzkrkqt9ninehqrmvklgq234
+
+{23: '2'}
+{4: '2', 26: '4'}
+24 :  qqtc2pdzzddgjrfhcvsbrbstwo4pdl
+
+{0: '9'}
+{23: '7'}
+97 :  ninegjlqdclpmgcjfdqhhsl7n
+
+{1: '1', 3: '8'}
+{8: '6'}
+16 :  voneight6
+
+{0: '1', 17: '8', 22: '1'}
+{11: '9'}
+11 :  onevfqrnvpm9mfkgseightonemrpj
+
+{1: '2', 7: '5', 4: '6'}
+{0: '9'}
+95 :  9twosixfivexz
+
+{15: '1', 21: '4', 18: '6', 6: '9'}
+{0: '1', 14: '1'}
+14 :  1mlbvlninepjvn1onesixfour
+
+{1: '1', 15: '4', 6: '5', 10: '8'}
+{0: '1', 5: '3'}
+14 :  1one33fiveeightfour
+
+{0: '1', 13: '4', 9: '5'}
+{17: '1', 18: '1'}
+11 :  onevsrlmzfivefour11
+
+{18: '5', 9: '7', 14: '9', 22: '7'}
+{0: '5', 8: '9'}
+57 :  5gpfqbtn9sevenninefiveseven
+
+{5: '1', 1: '6', 20: '9'}
+{0: '8', 9: '3'}
+89 :  8six8oner3vxgttfhtlnnine
+
+{19: '2', 10: '3', 15: '8'}
+{2: '1'}
+12 :  qc1kcpnpqdthreeeightwoj
+
+{2: '1', 5: '5'}
+{1: '8'}
+85 :  v8onefive
+
+{1: '8'}
+{0: '8', 27: '1'}
+81 :  8eight56kkpnbzvczmkxtzkjbcm1
+
+{1: '3', 7: '8'}
+{0: '1', 21: '9'}
+19 :  1threegeightcjb5pdpz29
+
+{5: '3', 27: '5', 24: '6'}
+{23: '4', 32: '9'}
+39 :  ttxcmthreekdsxdfxvrclfn4sixfive69
+
+{5: '3', 7: '9'}
+39 :  zgddz389
+
+{1: '1'}
+{0: '2', 16: '2'}
+22 :  2one344nkxtsvf762
+
+{24: '5'}
+55 :  klncdshlrkpfrxflsncnfmtg5
+
+{9: '8'}
+{14: '2', 23: '3'}
+83 :  trvmkbjvreight2kdhxfvlz3ds
+
+{24: '1', 27: '2', 19: '3', 30: '5', 0: '7'}
+{5: '5', 6: '7'}
+75 :  seven57xqrzmcsnjftfthreeonetwofive
+
+{17: '1', 15: '2', 1: '5'}
+{0: '5', 14: '4'}
+51 :  5five686lvmlgk4twonefmr
+
+{11: '1', 0: '6'}
+{3: '1', 8: '2'}
+61 :  six1khm82xronexqhzjdqzx
+
+{23: '3', 8: '9'}
+{12: '6', 28: '2'}
+92 :  zldbsjcsnine6vkdslrmtnpthree2
+
+{6: '5'}
+55 :  tbbtcl5xnsrjdz
+
+{0: '1', 8: '1'}
+11 :  1pqxgmnc1
+
+{1: '9'}
+{0: '3', 17: '7'}
+37 :  3ninefckfrppvdlmf7
+
+{12: '2', 6: '3'}
+{5: '7', 11: '9'}
+72 :  cprpq7three9twobql
+
+{0: '5'}
+{12: '1', 13: '2'}
+52 :  fivexgjsgvpd12lzvcbpstpsprdvs
+
+{5: '1', 0: '8'}
+{8: '2'}
+82 :  eightone2
+
+{1: '3', 17: '5', 6: '9'}
+{0: '4', 23: '4'}
+44 :  4threeninexhdcxrffive414
+
+{0: '7', 1: '9'}
+79 :  79sxxtpxtpmj
+
+{2: '9'}
+{0: '3', 1: '7'}
+39 :  37nine
+
+{6: '3', 7: '2'}
+32 :  mfmgtz32smkgxgmnk
+
+{2: '7'}
+{0: '6', 1: '8'}
+67 :  68sevenhmchv
+
+{17: '1'}
+{5: '9', 28: '3'}
+93 :  skjxk9shvdrznrrz5onetbdcjmk73
+
+{3: '7'}
+{0: '8', 2: '5'}
+87 :  865seven
+
+{1: '2', 17: '3', 4: '5', 8: '6', 22: '8'}
+{0: '4'}
+48 :  4twofivesixbtqjcjthreeeight
+
+{21: '3', 10: '6', 13: '9'}
+{0: '6', 1: '4'}
+63 :  64fxctcljfsixninedxdbthree
+
+{17: '8'}
+{7: '2', 23: '1'}
+21 :  rgxzttr21vnvgbcfceight91
+
+{9: '1', 1: '7'}
+{6: '4', 8: '2'}
+71 :  jseven422onerzpxvgjpd
+
+{0: '2', 20: '6', 23: '2'}
+{12: '4'}
+22 :  twofkktmpvcb4zngnnpdsixtwokgxcgk
+
+{12: '4', 15: '4'}
+44 :  xhcddkcvjpcb4354
+
+{7: '7', 2: '8', 12: '7'}
+{0: '8', 1: '8'}
+87 :  88eightsevenseven
+
+{1: '2', 16: '3', 13: '6', 24: '2'}
+{0: '2'}
+22 :  2twoqpxtqlccksixthreetwotwo
+
+{16: '5', 6: '6'}
+{20: '4'}
+64 :  vqnlmpsixvpbxdnsfive4
+
+{13: '1', 0: '4', 4: '5', 8: '5'}
+{12: '6'}
+41 :  fourfivefive6one
+
+{0: '7', 6: '4'}
+74 :  7xlkzc4
+
+{0: '1', 1: '7'}
+17 :  17klxs
+
+{4: '9'}
+99 :  snml9
+
+{0: '9'}
+{8: '9', 10: '4'}
+94 :  ninepzvg964hqczmdfvnbvrkngrs
+
+{7: '2', 2: '9'}
+{0: '7', 14: '6'}
+76 :  76nine5twosnm86
+
+{14: '6'}
+{13: '4'}
+46 :  prjrjfxffczhv4six
+
+{7: '2', 0: '8', 10: '9'}
+{5: '5', 6: '3'}
+89 :  eight53twonine
+
+{5: '8'}
+{4: '2'}
+28 :  tkjh2eightjh
+
+{1: '2'}
+22 :  k2zsfdsm
+
+{0: '4'}
+{4: '1', 23: '8'}
+48 :  four1hlxxvgqcgvhcdcjrr68
+
+{0: '1', 21: '2', 3: '3', 9: '9', 16: '3'}
+{8: '4', 15: '4'}
+12 :  onethree4nine844threetwo
+
+{4: '1', 2: '2'}
+{0: '9', 1: '4'}
+91 :  94twonedsn
+
+{1: '4', 6: '5'}
+{0: '2', 10: '4'}
+24 :  2four3five4tgpkrjdmdfrbjddkxv
+
+{0: '3'}
+33 :  3cnsj
+
+{0: '1', 7: '2', 3: '9'}
+{10: '3', 22: '4'}
+14 :  oneninetwo3cpfrdhnrbrd4
+
+{18: '8', 23: '9'}
+{0: '2', 27: '8'}
+28 :  2nfcbffx1qhszkhkmmeightnine8v
+
+{1: '3', 9: '3'}
+{0: '4', 6: '6'}
+43 :  4three6llthreemrpztjb
+
+{11: '6'}
+{0: '5', 24: '1'}
+51 :  53xksczcvmdsixnmxvqcctpv1
+
+{8: '3', 26: '7'}
+{6: '6', 23: '9'}
+67 :  xzhhpr66threeblplpkmktp9pgseven
+
+{9: '1', 7: '2', 0: '7'}
+{5: '6', 6: '3'}
+71 :  seven63twoneb
+
+{14: '2', 26: '3', 9: '7', 31: '9'}
+{0: '9'}
+99 :  9btlntpndseventwovtnplnqldthreenine
+
+{1: '3', 12: '5', 6: '7'}
+{11: '4'}
+35 :  nthreeseven4five
+
+{5: '1', 3: '2', 24: '6'}
+{8: '1', 27: '8'}
+28 :  zpktwone1gjzntpllkghhsqqsix8p
+
+{5: '4', 24: '5', 0: '8', 19: '8'}
+{28: '6', 29: '9'}
+89 :  eightfourlcrkqcjfsheightfive69
+
+{4: '8'}
+88 :  hvkv8
+
+{19: '3', 0: '4', 9: '5', 14: '8'}
+{4: '9', 24: '8'}
+48 :  four93dzrfive9eightthree8
+
+{12: '3', 6: '4', 1: '5'}
+{0: '9', 11: '7'}
+93 :  9fivecfour47threecpcjbf
+
+{3: '1', 7: '2'}
+{2: '1', 6: '8'}
+12 :  pb1one8two
+
+{7: '2', 14: '4', 10: '5', 18: '6', 0: '7'}
+{5: '6', 6: '4'}
+76 :  seven64twofivefoursix
+
+{24: '1'}
+{6: '7'}
+71 :  hgjjjj7mkxztspmzvbdcbbfkone
+
+{13: '5'}
+{26: '9'}
+59 :  mkdmqzfpkvqfcfiveshstxgnrs9fzzdr
+
+{9: '3'}
+{8: '2'}
+23 :  ssddfgcd2three
+
+{9: '7'}
+{7: '2', 8: '8'}
+27 :  xzzrrxm28seven
+
+{10: '2', 13: '3', 31: '7', 18: '9'}
+{0: '1'}
+17 :  1nffqfjtmftwothreeninerqbthmhkhseven
+
+{14: '5'}
+{18: '6', 19: '3'}
+53 :  lkbbgsjmbtpgncfive63
+
+{22: '1', 10: '3', 15: '4', 19: '6'}
+{25: '1'}
+31 :  jddsdrkmhkthreefoursixone1
+
+{1: '9', 10: '9'}
+{0: '6', 16: '7'}
+67 :  6nine5ngdcninemq7xqlsmdkgjf
+
+{0: '8'}
+{10: '3', 26: '2'}
+82 :  eightfhppf3f9jgdvzldxltrgg2
+
+{13: '6'}
+{0: '3', 12: '8'}
+36 :  3nszqpfth9338six
+
+{14: '4', 9: '5'}
+{7: '4', 13: '8'}
+44 :  srmhtvn46five8four
+
+{4: '2', 12: '3', 7: '8'}
+{0: '6'}
+63 :  6qqttwoeightthree
+
+{0: '3', 18: '6', 34: '8'}
+{17: '8'}
+38 :  threedpqxmlghsgls8sixsslthdfzdknmjeight
+
+{3: '1', 1: '2', 8: '4'}
+{6: '6', 12: '2'}
+22 :  rtwone66four2
+
+{7: '1', 0: '6'}
+{3: '4', 10: '1'}
+61 :  six4dt5one1
+
+{16: '5'}
+55 :  xrmlvrfpmtttvppc5
+
+{2: '5', 6: '6', 9: '5', 13: '6'}
+{0: '3', 1: '4'}
+36 :  34fivesixfivesix
+
+{18: '8'}
+{0: '1', 17: '2'}
+18 :  1rnrtkbqlpphqlch52eight
+
+{0: '4'}
+{7: '1', 8: '9'}
+49 :  fourgbr19
+
+{5: '4', 2: '6', 9: '8'}
+{0: '7', 14: '8'}
+78 :  79sixfoureight8
+
+{15: '8'}
+{9: '7'}
+78 :  kdlqxjzdx7mrdqpeightzgdx
+
+{1: '8'}
+{0: '1', 19: '1'}
+11 :  1eight6254dplmqrpkq1
+
+{0: '7'}
+{10: '2', 12: '2'}
+72 :  sevenvqpnd222
+
+{22: '3', 12: '5'}
+{11: '1', 18: '9'}
+13 :  mpddrhlncrp1fivev69znxthree
+
+{14: '5', 18: '7'}
+{0: '8', 33: '5'}
+85 :  87znxjsmsvlzxbfivesevenrgghkbrsdq5
+
+{10: '8'}
+{0: '5', 29: '3'}
+53 :  5rxbkctnsfeightxpbllldgjxqdrd3dmt
+
+{12: '1', 1: '2', 7: '8'}
+{0: '6', 6: '8'}
+61 :  6twog48eightone
+
+{4: '4', 1: '6'}
+{0: '2'}
+24 :  2sixfour
+
+{3: '1', 17: '4', 12: '8'}
+{0: '4', 2: '3'}
+44 :  433onexklbhneightfour
+
+{0: '8', 15: '8'}
+{5: '5', 20: '1'}
+81 :  eight5hjlmdsnzxeight1
+
+{0: '9'}
+99 :  9fvqtc
+
+{10: '2', 14: '5'}
+{13: '7', 18: '9'}
+29 :  ltmcrnhrpqtwo7five9
+
+{0: '6'}
+{3: '5', 4: '5'}
+65 :  six55
+
+{29: '6'}
+66 :  mpsjhvbxmkpppfjhdjlgcrvkzpvds6htl
+
+{17: '2'}
+{6: '6', 8: '1'}
+62 :  jldzmj671vzljbmrjtwo
+
+{11: '3'}
+{10: '2', 18: '5'}
+25 :  rsznrsrtcz2threerk5ggdrtfmktrjjrdpjvvhshhqszzmbzp
+
+{0: '9'}
+{4: '5', 5: '3'}
+93 :  nine53v
+
+{5: '1'}
+{0: '6'}
+61 :  6khbvone
+
+{3: '1', 5: '8'}
+{10: '5'}
+15 :  tvzoneight5khzglntxjgb
+
+{40: '6', 23: '8', 28: '9'}
+{4: '9'}
+96 :  qtgx9zhtrqcnlblvrsngsfkeightninefvlnpjbxsix
+
+{46: '5', 14: '6'}
+{8: '1', 17: '9'}
+15 :  tljmkjbb1kncvqsix9jthkqlkvkztjjbtrbqjxjmrblzzjfive
+
+{0: '8'}
+{5: '6'}
+86 :  eight6l
+
+{15: '2', 6: '3', 11: '8'}
+{0: '4', 1: '7'}
+42 :  47qxgjthreeeightwohp
+
+{3: '1', 24: '3', 5: '8'}
+{13: '4', 23: '6'}
+13 :  lqponeightggj4smzdbzqg86three
+
+{3: '9'}
+{0: '7', 1: '5'}
+79 :  75znine
+
+{8: '5'}
+{7: '4'}
+45 :  nvqgzfx4five
+
+{10: '4', 0: '5'}
+{4: '8', 9: '8'}
+54 :  five8pks78fourdbspf
+
+{29: '2', 10: '3', 0: '7', 15: '9', 21: '7'}
+{9: '3'}
+72 :  seventczx3threeninemlsevenmvntwo
+
+{0: '1'}
+{3: '5', 4: '9'}
+19 :  one59tqqxbjhp
+
+{16: '1', 4: '3', 0: '6', 21: '6'}
+{3: '5', 24: '4'}
+64 :  six5threehgmcnpvone6bsix4
+
+{14: '4', 5: '6', 0: '8'}
+{18: '4'}
+84 :  eightsixckfpcffour4
+
+{9: '5'}
+{8: '2', 13: '7'}
+27 :  hbzjvzdr2five7
+
+{0: '1', 8: '4'}
+{3: '4', 7: '5'}
+14 :  one4jxz5fourm
+
+{11: '6'}
+{0: '7', 18: '3'}
+73 :  76bbldjckqksixhcmb3
+
+{0: '1', 3: '9'}
+{7: '4', 8: '9'}
+19 :  onenine49vq
+
+{21: '6'}
+{0: '6', 20: '1'}
+66 :  6rzxhsmnfbmqgsgvt57k1six
+
+{17: '4'}
+{15: '1', 16: '6'}
+14 :  zdftpqqplpqfhrd16four
+
+{22: '3', 0: '9', 35: '9'}
+{27: '1', 39: '4'}
+94 :  ninebsnjtrkfhgfbqsnqhrthree1mqkrrtxnine4
+
+{0: '9'}
+{4: '3', 16: '1'}
+91 :  nine3lhrzkbcmzq11
+
+{4: '3', 0: '4', 25: '6', 20: '8', 10: '9'}
+{9: '5', 28: '5'}
+45 :  fourthree5ninesljdvseightsix5
+
+{0: '8'}
+88 :  8qjtbfjpf
+
+{1: '2'}
+{0: '8', 36: '2'}
+82 :  8twobvtgbgbtnxrh5lblkxtnlphfmhpccfzz2
+
+{6: '2', 23: '3'}
+23 :  brqbgn27377kltngmlqsfnf3
+
+{15: '1', 0: '2', 3: '2'}
+{6: '6', 14: '9'}
+21 :  twotwo67nkgmth9one
+
+{5: '1', 2: '2', 19: '3', 16: '6', 29: '7', 24: '8'}
+{0: '2', 1: '9'}
+27 :  29twoonevqffqqjqsixthreeeightseven
+
+{4: '6', 15: '5'}
+65 :  xbrv6qgqjxmvjkr5ngjhdjlvnjsmlqgngfr
+
+{22: '6'}
+{12: '8', 25: '4'}
+84 :  ggbmtmbcrnkj83vhhgdjlfsix4
+
+{0: '4', 19: '8'}
+48 :  4blnxlvmq6zpfpgxcp38
+
+{14: '2', 9: '8'}
+{17: '3', 22: '5'}
+85 :  dcvrzvqcteighttwo3cxfn5
+
+{2: '6'}
+{5: '5', 27: '8'}
+68 :  qzsix5fbqbflhzzvblfhvfgmzkm8
+
+{1: '2', 11: '6', 15: '7'}
+{0: '7', 20: '6'}
+76 :  7twojtbdkzpsix2seven6
+
+{1: '6'}
+{0: '6', 5: '6'}
+66 :  6six86
+
+{0: '2'}
+{3: '4'}
+24 :  two4sbnnsskqtm
+
+{2: '1', 5: '4', 9: '5', 13: '4'}
+{0: '1', 20: '7'}
+17 :  19onefourfivefoursmg7
+
+{11: '2', 24: '3', 14: '7', 19: '8', 29: '2'}
+{0: '9', 10: '1'}
+92 :  9rxrbxbmqs1twoseveneightthreetwo
+
+{0: '2', 18: '3'}
+{3: '3', 10: '3'}
+23 :  two3zmcdnm3rlpkjqgthree
+
+{28: '9'}
+{19: '9', 27: '8'}
+99 :  gtlkgpmpprpbbrzjrsp9ssvnzg68nine
+
+{3: '1', 1: '2', 13: '5', 29: '8', 35: '1'}
+{17: '5', 34: '1'}
+21 :  ptwonerddxhnzfive53xhflnccpfkeight1one
+
+{0: '6', 9: '7', 15: '7'}
+{14: '8', 21: '1'}
+61 :  sixvxlbllseven8seven81
+
+{15: '5', 10: '7'}
+{19: '5', 20: '8'}
+78 :  jhfxcvccjdsevenfive58
+
+{5: '4', 1: '9'}
+{0: '5'}
+54 :  5ninefourmz
+
+{0: '1', 21: '2', 4: '3', 18: '1', 10: '3'}
+{3: '7', 9: '9'}
+12 :  one7three9threeoneonetwo
+
+{0: '4', 12: '6', 8: '4'}
+{4: '4'}
+46 :  four4clsfoursixxvkzx
+
+{0: '4', 4: '7'}
+{9: '3'}
+43 :  fourseven3
+
+{6: '2', 2: '8'}
+{9: '1', 13: '6'}
+86 :  szeightwo18l16rxcmvdmkcvb
+
+{6: '3', 16: '5'}
+{14: '4', 20: '9'}
+39 :  bdzqlbthreedsb45five9
+
+{41: '2', 11: '3', 25: '7', 20: '8', 16: '9', 37: '8'}
+{0: '8', 36: '8'}
+82 :  8pztdljxbjjthreenineeightseven7crkdr8eightwocb
+
+{25: '3', 20: '8'}
+{0: '9', 10: '4'}
+93 :  9krvttdxf34mrpzzchrgeightthree
+
+{23: '6', 6: '7', 11: '8'}
+{0: '8'}
+86 :  8jqlmgseveneightzvxrszfsixf
+
+{10: '3', 4: '5', 15: '8', 0: '9'}
+{20: '7', 22: '5'}
+95 :  ninefiveztthreeeight7l5
+
+{18: '2', 11: '4', 29: '9'}
+{0: '7', 22: '3'}
+79 :  7vhbjdnldvlfourhpptwo53pqbnzqnine
+
+{4: '6', 7: '7'}
+{12: '6'}
+66 :  mxdhsixseven6
+
+{0: '3', 9: '8'}
+{14: '7'}
+37 :  threepzlkeight7ppdpqqlv
+
+{18: '2', 6: '3', 0: '9'}
+{4: '1', 5: '5'}
+92 :  nine15threeqxlrngntwokhzgh
+
+{0: '4', 8: '2'}
+42 :  4hblzjb22
+
+{19: '4', 32: '5', 3: '8', 28: '9', 23: '8'}
+{2: '6'}
+65 :  pm6eighteightsnztcmfoureightninefive
+
+{0: '3'}
+33 :  3jffzhl
+
+{16: '1', 8: '4', 18: '8'}
+{0: '9', 15: '4'}
+98 :  97dlrqzvfour6594oneightltg
+
+{5: '5', 0: '6'}
+{15: '7'}
+67 :  sixlpfivelbjktk7
+
+{0: '3', 7: '7'}
+{5: '2', 6: '3'}
+37 :  three23seven
+
+{4: '2', 16: '4', 20: '7', 7: '9'}
+{0: '4', 3: '7'}
+47 :  44x7twoninedrzvnfourseven
+
+{11: '4'}
+{0: '8'}
+84 :  8xpndnspgbnfourzcngchbmd
+
+{10: '3', 22: '5'}
+{26: '1'}
+31 :  gpdfptgjxcthreeptmpttnfive1
+
+{31: '3'}
+{10: '3', 36: '7'}
+37 :  rzcnffhslj398xrhlkbxbcgqtcsjdl3three7
+
+{8: '1', 11: '2', 0: '4'}
+{14: '5', 17: '7'}
+47 :  fourddqlonetwo5ms7
+
+{19: '6'}
+{8: '4'}
+46 :  zjnfvksq4djdrjtxdmnsixqshlntxn
+
+{12: '2', 0: '4', 42: '9'}
+{11: '4', 41: '1'}
+49 :  fournpgkxtp4twojtmqgjgnzdxrnvdxfsltzpflmg1nine
+
+{0: '1', 4: '1'}
+{3: '2', 7: '3'}
+13 :  one2one3
+
+{0: '2', 3: '6', 32: '8', 36: '2'}
+{16: '2', 17: '6'}
+22 :  twosixfgklbnprck26vstrjkfxgmbhhceightwomz
+
+{6: '2'}
+{5: '5', 11: '7'}
+57 :  bxxbt5two2g7
+
+{6: '1', 13: '5', 2: '9'}
+{0: '5', 12: '7'}
+55 :  5gnineone8697five
+
+{7: '9', 18: '9'}
+{13: '8'}
+99 :  vcvsfxdninecz8stcvnine
+
+{24: '3', 0: '5', 36: '3', 5: '5'}
+{4: '8', 29: '6'}
+53 :  five8fivenxzcjqjxfrbmhdnthree6kkplgmthree
+
+{19: '1', 10: '7'}
+{18: '4'}
+71 :  dtchdczdvbsevenzsb4one
+
+{4: '8'}
+{0: '7', 26: '1'}
+71 :  78cdeightvjdlqpvql2fgrrrd61
+
+{8: '1', 10: '8', 4: '9'}
+{3: '5'}
+58 :  pvr5nineoneightzvs
+
+{1: '3', 9: '3'}
+{0: '8', 6: '8'}
+83 :  8three8jvthree
+
+{1: '1', 5: '1'}
+{0: '2', 4: '6'}
+21 :  2one6one
+
+{0: '3', 6: '6'}
+{5: '3'}
+36 :  three3six
+
+{20: '1', 8: '3'}
+{23: '7'}
+37 :  thzmsdbqthreertfjsddone7
+
+{14: '1', 11: '6'}
+{8: '3'}
+31 :  nmhctqdj3hlsixonevkhdbvskg
+
+{0: '5'}
+{4: '4', 8: '5'}
+55 :  five42255
+
+{4: '5', 0: '9'}
+{15: '3'}
+93 :  ninefivenqmljgv3
+
+{4: '7', 5: '1'}
+71 :  hjgm71
+
+{14: '6'}
+{10: '6'}
+66 :  mldfbltrfn6jxjsixpbkzbcqvcj
+
+{20: '2', 0: '3', 16: '8', 11: '3'}
+{5: '8', 10: '9'}
+32 :  three8nmmp9threeeightwohft
+
+{15: '3', 0: '8'}
+{5: '9'}
+83 :  eight9zltdfrdnrthree
+
+{1: '2'}
+{0: '3'}
+32 :  3twom
+
+{0: '5'}
+55 :  5kt
+
+{17: '7', 23: '7'}
+{15: '9', 22: '3'}
+97 :  pgvglmgpjtnqnkg96seven3seven
+
+{11: '2', 3: '9', 14: '9'}
+{7: '2', 18: '3'}
+93 :  lhnnine2qjptwonine3
+
+{17: '3', 5: '4', 0: '8', 31: '9'}
+{24: '6'}
+89 :  eightfourllgmfkjnthreegc6bbdrfcninem
+
+{15: '3', 22: '9'}
+{6: '9', 21: '1'}
+99 :  xmlckt9kkdprslxthree91nine
+
+{0: '3', 10: '9'}
+{14: '5', 16: '8'}
+38 :  threespfklnine538
+
+{8: '1'}
+11 :  qlkbjplh1
+
+{10: '4', 6: '5', 1: '7'}
+{0: '5'}
+54 :  5sevenfivefour
+
+{39: '4', 1: '9'}
+{0: '2', 38: '8'}
+24 :  2ninejsjfngfhhldkkghqlmflqfbqpvtnsthgj8four
+
+{7: '3', 2: '8'}
+{0: '5', 35: '3'}
+53 :  59eightthreejdzbzbfxlnjqgxxhpbhqhxv3
+
+{0: '3', 10: '7'}
+{15: '4'}
+34 :  threebsgqfseven4xdvnpvpnzslfsvxvshptjffn
+
+{17: '5', 12: '7'}
+{10: '6', 11: '1'}
+65 :  vnnpmdqhzm61sevenfivepmbktbsdljp
+
+{5: '4'}
+{0: '3', 15: '6'}
+36 :  379zffourxvlvpb6
+
+{0: '3'}
+33 :  3mhlnbdqr
+
+{0: '1', 17: '7'}
+{3: '9', 10: '5'}
+17 :  one9kjqtgm5hrbrxrseven
+
+{0: '2', 6: '6'}
+{12: '6'}
+26 :  twobqssixdfz6
+
+{17: '4', 12: '7'}
+{1: '1', 21: '3'}
+13 :  f1bnhjnfzpcrsevenfour3
+
+{4: '5', 0: '9'}
+{8: '1'}
+91 :  ninefive1
+
+{1: '1', 13: '3', 4: '1'}
+{0: '5', 19: '5'}
+55 :  5oneonecfdpdqthree75
+
+{21: '1', 24: '4', 10: '5', 0: '8', 6: '9'}
+{5: '7', 17: '2'}
+84 :  eight7ninefivesft2cmfonefour
+
+{1: '4', 5: '4'}
+{0: '8'}
+84 :  8fourfour
+
+{2: '5', 12: '5'}
+{6: '6', 16: '5'}
+55 :  bnfive69vcqhfive5ft
+
+{19: '3', 6: '8'}
+{0: '9', 18: '8'}
+93 :  9lkpj2eight9ssmsbh8three
+
+{7: '1', 28: '2', 14: '4', 11: '6', 24: '8'}
+{2: '9', 18: '9'}
+92 :  bq9drgtone2sixfour9kthrmeightwob
+
+{0: '8', 5: '8'}
+{14: '8', 15: '6'}
+86 :  eighteightgppg86
+
+{22: '3', 5: '5', 1: '6'}
+{0: '1', 4: '1'}
+13 :  1six1fivekmnkvlfnhsxtpthree
+
+{16: '5'}
+{15: '4', 34: '8'}
+48 :  gqxqtdktrltmhqp4fivelbqsrklgfllrh48fxgdlcvsrc
+
+{0: '2', 3: '3', 16: '9'}
+{8: '6'}
+29 :  twothree6ckkclhsnine
+
+{0: '5', 5: '8'}
+{4: '5'}
+58 :  five5eightqfn
+
+{2: '3', 23: '9'}
+{0: '3', 15: '3'}
+39 :  37threedkvtvnfs3mbmzhjbnine
+
+{13: '1', 16: '3'}
+{12: '9'}
+93 :  hclcdxsvhzpc9onethrees
+
+{0: '6', 9: '7'}
+67 :  6gff5txnv7qmgptkgdrggfnlh
+
+{31: '2'}
+{9: '9'}
+92 :  nnpvnstlb9hhdqjhbxkbthrzclvsbgktwo
+
+{13: '2', 9: '5'}
+{16: '3', 18: '4'}
+54 :  zvkqdqmqgfivetwo334vzgvllv
+
+{1: '4', 5: '6'}
+{0: '7'}
+76 :  7foursix
+
+{13: '3', 0: '9'}
+{10: '5'}
+93 :  ninedfbmns5xqthree
+
+{5: '7'}
+{0: '1', 1: '6'}
+17 :  16frxsevenpnfbgdhb
+
+{9: '1'}
+{5: '6', 8: '3'}
+61 :  qqfcn6353one
+
+{0: '8', 26: '8'}
+{17: '2', 18: '5'}
+88 :  eightpczvxnzmhkgc25ztrrqkmeight
+
+{0: '9', 7: '2'}
+92 :  94lnlmx2
+
+{0: '9'}
+99 :  9mvtssn
+
+{4: '1', 2: '2', 16: '5', 32: '7', 13: '1'}
+{12: '9', 21: '8'}
+27 :  kctwonegkprf9onefive38bjsvnnxsgpseven
+
+{2: '2', 5: '7'}
+{0: '4'}
+47 :  4stwosevenkccc
+
+{11: '6', 7: '9'}
+{0: '1'}
+16 :  1sbnbxzninesixfkcdfl
+
+{7: '1', 2: '8', 16: '1'}
+{0: '6', 19: '6'}
+66 :  69eightonedsjoneone6
+
+{1: '5'}
+{0: '8', 5: '5'}
+85 :  8five5rrsplshtlmrj
+
+{19: '1', 13: '9'}
+{10: '8', 18: '2'}
+81 :  chntvmpkdr8nsnine12one
+
+{4: '4', 19: '7', 0: '9'}
+{13: '6', 24: '4'}
+94 :  ninefourqlxfj6cfzczseven4v
+
+{19: '7'}
+{0: '1', 32: '5'}
+15 :  1gsbnklv6lszhmrrfvmsevenpfckscfn5
+
+{11: '2', 22: '3', 4: '9', 28: '3'}
+{3: '9', 27: '7'}
+93 :  lgt9ninekgstwovkgqckhbthree7three
+
+{3: '1', 1: '2'}
+{6: '9', 7: '1'}
+21 :  ztwone91ltzmtmgpdr
+
+{10: '1', 1: '8'}
+{0: '1'}
+11 :  1eightlqvrone
+
+{0: '1', 24: '1'}
+11 :  11jbvdprskhkczr32tdjmxbf1
+
+{0: '1'}
+{13: '6'}
+16 :  oneqttfcdtxbt6
+
+{5: '1', 0: '4'}
+{4: '6', 8: '8'}
+48 :  four6one8mvzqskzgnh
+
+{31: '2', 7: '4', 20: '6', 0: '8'}
+{5: '7', 23: '5'}
+82 :  eight74fourcnflfncmjsix5skdqcmvtwo
+
+{7: '7', 8: '1'}
+71 :  jmqpvlv71
+
+{1: '1', 3: '8'}
+{0: '9'}
+98 :  9oneightgd
+
+{0: '8', 3: '1'}
+81 :  8341
+
+{10: '7'}
+77 :  pdtmqvhzvp7
+
+{8: '8'}
+{7: '2', 13: '4'}
+24 :  bpfnfdm2eight4
+
+{17: '1', 14: '2', 1: '5', 19: '8'}
+{0: '2'}
+28 :  2fivedxlntgmgjtwooneightt
+
+{28: '1'}
+{9: '9'}
+91 :  tjmvvbqmq9njjxrbmgrlcbrbtzjbone
+
+{1: '6', 7: '6'}
+{0: '7'}
+76 :  7sixsixsix
+
+{5: '2', 16: '4', 0: '8', 11: '8'}
+{8: '6'}
+84 :  eighttwo6bheightfour
+
+{0: '1'}
+{20: '3'}
+13 :  onedtdhrsjsvflfmrkfz3d
+
+{8: '9', 12: '9'}
+{7: '5'}
+59 :  hxbzrvj5ninenine
+
+{5: '8', 11: '8'}
+{10: '7'}
+88 :  vdldceight7eight
+
+{0: '2'}
+{20: '2'}
+22 :  twombtmnntjsfpmvjhqt2
+
+{1: '8'}
+{0: '2', 7: '6'}
+26 :  2eight96
+
+{1: '5'}
+{0: '9', 14: '1'}
+91 :  9fivegbgvtpzrg1
+
+{1: '3'}
+{0: '5', 6: '1'}
+51 :  5three1fjhsn
+
+{0: '4', 2: '3'}
+43 :  473
+
+{2: '8'}
+88 :  np8
+
+{16: '2', 10: '5', 20: '7', 25: '7'}
+{15: '4', 19: '9'}
+57 :  kbdrczcmsbfives4two9sevenseven
+
+{10: '5', 0: '9', 17: '5'}
+{14: '1', 16: '5'}
+95 :  ninelmrkgtfive145five
+
+{1: '2', 6: '8', 14: '8'}
+{0: '5', 5: '2'}
+58 :  5two92eightdspeight
+
+{0: '6'}
+66 :  6zxtlvlrcl
+
+{24: '1', 11: '8'}
+{0: '1', 27: '1'}
+11 :  1mkcvsctvh1eight3pmrckhbone1
+
+{11: '6'}
+{0: '4', 16: '1'}
+41 :  4pqrrvqsqlvsixbt1
+
+{35: '4'}
+{0: '7', 5: '2'}
+74 :  742cl2qnknmcxqjtklbjmsjdvdhngptpljmfour
+
+{6: '9', 7: '2'}
+92 :  bfsfcf92
+
+{10: '1', 6: '4'}
+{28: '5', 29: '5'}
+45 :  vzjlrffouronertfhcsmdgbjrdcd55
+
+{5: '1', 15: '2', 1: '9', 12: '1'}
+{18: '3'}
+93 :  knineonecmsvonetwo3
+
+{23: '3', 4: '6', 18: '8'}
+{7: '2', 14: '5'}
+63 :  vpnqsix2qgptjp5shdeightthree
+
+{16: '2', 19: '8'}
+{3: '5', 31: '8'}
+58 :  jdp5lgffkrmsxjd8twoeightgnfzkpt8
+
+{5: '3', 0: '4', 16: '7'}
+{4: '6', 13: '6'}
+47 :  four6three2rq6lpseven
+
+{14: '1', 8: '2', 27: '3'}
+{0: '1'}
+13 :  1pfnmmpctwovqvonebcbqjhghrbthreepdxf
+
+{7: '8', 13: '9'}
+{12: '4'}
+89 :  kpxkgdheight4nine
+
+{6: '5', 3: '6'}
+{0: '8', 13: '9'}
+89 :  839sixfive5kh9
+
+{21: '5', 2: '7', 7: '8'}
+{0: '2', 26: '2'}
+22 :  21seveneightmffgnmqvbfive32g
+
+{1: '2', 30: '6'}
+{0: '8', 20: '1'}
+86 :  8twozncssnsllksbncbz1dgmtdljdssix
+
+{8: '1'}
+11 :  jchhdqjf1
+
+{1: '6'}
+{0: '7', 4: '2'}
+72 :  7six2
+
+{0: '1', 7: '2', 3: '4', 11: '5'}
+{10: '3'}
+15 :  onefourtwo3five
+
+{3: '2'}
+{6: '3'}
+23 :  zgktwo3
+
+{9: '9'}
+{13: '7'}
+97 :  dlxdsdslhnine7
+
+{0: '2'}
+{3: '8', 4: '6'}
+26 :  two86
+
+{11: '4', 15: '7'}
+{0: '2'}
+27 :  2kjkmmjbsprfourseventkqlr
+
+{6: '2', 1: '3'}
+{0: '5', 23: '6'}
+56 :  5threetwocvhlnnqhchchgl6
+
+{16: '4'}
+{20: '6'}
+46 :  gtdlffspsjhcnxqdfour6
+
+{0: '2', 23: '9'}
+29 :  2gkldzksdxcnhgcdvshgxjv9rcxhh
+
+{0: '2', 7: '9'}
+{6: '7'}
+29 :  twogjx7nine
+
+{2: '3'}
+{0: '2', 10: '9'}
+29 :  25threeqmh9qfghrnvzb
+
+{3: '1', 6: '4', 10: '1'}
+{0: '2', 2: '8'}
+21 :  248onefouronexcjbbqpcfb
+
+{0: '1', 3: '3'}
+{8: '8'}
+18 :  onethree8pqkzsmlfdcfhz
+
+{0: '7', 1: '4'}
+74 :  74j
+
+{13: '3'}
+{18: '9'}
+39 :  szfjpjbnfcjmsthree9
+
+{0: '9', 1: '9'}
+99 :  99msrmcxn
+
+{6: '1', 3: '2'}
+{0: '1', 2: '9'}
+11 :  1f9twoone
+
+{9: '1', 18: '3', 14: '5'}
+{12: '4', 13: '2'}
+13 :  mrsvrhbgfone42fivethreetllzkd
+
+{5: '9', 8: '5'}
+95 :  rnrvx9925
+
+{7: '1', 1: '4', 10: '5', 15: '8'}
+{0: '4', 14: '2'}
+48 :  4fourzhonefive2eight
+
+{5: '1', 8: '2', 0: '3'}
+{11: '3'}
+33 :  threeonetwo3nfbgnjxq
+
+{0: '8', 16: '8'}
+{7: '1'}
+88 :  eightgz1lnqeighteight
+
+{1: '5', 13: '6'}
+{0: '6'}
+66 :  6fivefvvtvqcjsix
+
+{4: '1', 5: '3'}
+13 :  djrl13
+
+{8: '3', 18: '3'}
+{7: '5', 17: '4'}
+53 :  gppmmzq5threej7pc4three
+
+{14: '2', 2: '6', 11: '6'}
+{0: '6', 10: '1'}
+62 :  63sixhtcmp1sixtwo
+
+{22: '1', 17: '3', 25: '4'}
+{6: '3', 29: '2'}
+32 :  fcjjzf3nxdtxnqmtjthreeonefour2
+
+{0: '8', 5: '5'}
+85 :  8fpbc5
+
+{10: '4'}
+{0: '2', 1: '5'}
+24 :  25mrzjfppbfourfrzrspqkcbmn
+
+{0: '1'}
+11 :  1qrmkvgxnc
+
+{5: '7'}
+77 :  qvbmn7
+
+{16: '2', 26: '3', 0: '9'}
+{4: '6', 31: '6'}
+96 :  nine6lvdddmrfxc4two4cdhhdzthree6
+
+{20: '3'}
+{7: '6', 11: '4'}
+63 :  mtrjrfb6htv4mcrzqrbkthree
+
+{6: '1', 9: '7', 0: '8'}
+{5: '3'}
+87 :  eight3oneseventbbdqpffnfm
+
+{20: '3', 0: '8', 25: '3'}
+{9: '1', 30: '7'}
+87 :  eightxfll15rxkdkglxsthreethree7
+
+{6: '3', 2: '5', 12: '6'}
+{0: '3', 1: '8'}
+36 :  38fivethreelsixbczgzdffn
+
+{3: '2', 9: '9', 13: '2'}
+{0: '8', 8: '1'}
+82 :  884twolp1ninetwo
+
+{5: '1'}
+{4: '4', 8: '8'}
+48 :  csxl4one8
+
+{18: '2', 9: '4', 13: '9'}
+{17: '9', 21: '5'}
+45 :  dtrxqjshbfournine9two5gng
+
+{9: '7'}
+77 :  dgpvkcqzn7
+
+{20: '7', 4: '8', 0: '9', 26: '7'}
+{25: '9'}
+97 :  nineeighttpzfnpzdtjzseven9seven
+
+{0: '8'}
+{15: '2'}
+82 :  eightnkrrnmbvqz2cvktr
+
+{2: '9'}
+{0: '5', 6: '6'}
+56 :  55nine6kttszrtjvm
+
+{14: '5'}
+{23: '8'}
+58 :  vxvzmmmnrkzvkffivetxhgj8pqtfvvlprd
+
+{25: '2', 28: '3', 12: '5', 20: '7', 16: '5'}
+{0: '4', 1: '3'}
+43 :  43kfvtplhjfdfivefiveseventwothreezkmqlsk
+
+{7: '1'}
+{10: '7'}
+17 :  gpkgckdone7xssjkmlsgddg
+
+{13: '3', 1: '4', 24: '5', 18: '4'}
+{0: '4', 23: '8'}
+45 :  4fourqrspbqzzthreefour28five
+
+{0: '1', 9: '7'}
+{3: '1', 6: '3'}
+17 :  one1st3kmseven
+
+{9: '1', 0: '4', 19: '9', 13: '4'}
+{12: '6', 23: '5'}
+45 :  fourjqmmbone6four7gnine5
+
+{0: '1', 24: '1'}
+{3: '9', 23: '2'}
+11 :  one93mbdbtqvtqmcjxhtzst2onezhlmszqh
+
+{0: '7'}
+77 :  7krlt
+
+{9: '1', 12: '4'}
+{8: '4'}
+44 :  dbstsmrm4onefour
+
+{6: '8'}
+{11: '3'}
+83 :  vqqxjteight3
+
+{12: '2', 23: '9'}
+29 :  ppndcfssbchr2vsr4xdhzvs9jbdkrh
+
+{11: '8', 19: '9', 23: '9'}
+{0: '2'}
+29 :  2vdkxkqmrzveightzrgnineninentx
+
+{1: '1'}
+{0: '6', 4: '7'}
+67 :  6one7
+
+{0: '3', 7: '6', 10: '6'}
+{5: '2', 6: '4'}
+36 :  three24sixsix
+
+{18: '1', 1: '3', 9: '3'}
+{6: '4', 8: '1'}
+31 :  hthree441threemchrone
+
+{0: '3', 14: '3'}
+{19: '5'}
+35 :  threeqhxzkpjkbthree5
+
+{0: '7'}
+{5: '5', 15: '8'}
+78 :  seven5hcxhlgxtr8qjtjpqnqc
+
+{0: '2'}
+22 :  2mcxlqpqqffvljnhhlplnmlq
+
+{11: '2'}
+{10: '7'}
+72 :  fvbckcgjgk7two
+
+{25: '4', 29: '7'}
+{7: '9', 24: '1'}
+97 :  zgglpqj92bjfvrfntsdfvffx1fourseven
+
+{6: '2', 2: '8'}
+{9: '6'}
+86 :  jgeightwo6
+
+{18: '3'}
+{8: '6', 23: '3'}
+63 :  ldthsjlm6crjhxdvlqthree3
+
+{6: '3', 22: '4', 0: '5', 11: '9'}
+{4: '3', 15: '4'}
+54 :  five38threenine4dgctxdfour
+
+{8: '8', 17: '8'}
+{6: '5', 13: '3'}
+58 :  mljrxk52eight3bkbeight
+
+{8: '8', 13: '9'}
+{0: '1'}
+19 :  1mkkgnvzeightninesnr
+
+{3: '6'}
+{0: '8', 2: '5'}
+86 :  895sixd
+
+{9: '8'}
+{8: '9'}
+98 :  qqngkprp9eight
+
+{23: '2', 19: '8'}
+{0: '9', 18: '8'}
+92 :  9qp1cqtkhdhdlv6hrl8eightwodln
+
+{21: '1', 18: '6', 33: '6'}
+{9: '7', 24: '3'}
+76 :  ldgksxpnp7mxckrpftsixone3bqkktvmqsix
+
+{7: '8', 12: '8'}
+{17: '5', 29: '2'}
+82 :  chtzvmneighteight5pjrdxrmdqh82
+
+{38: '2', 26: '3', 22: '4'}
+{3: '7', 31: '8'}
+72 :  tfr7ppsxdfvhtsdlqlmbscfourthree8bxhgtztwo
+
+{0: '3'}
+{5: '6', 15: '6'}
+36 :  three65dnlpgcmx6
+
+{16: '4'}
+{3: '6', 20: '9'}
+69 :  znf69pbfsbfmxgn7four9
+
+{22: '7', 18: '9'}
+{0: '5', 35: '8'}
+58 :  5bhqfcghxssjflbzmrninesevengbqvtkgs8
+
+{10: '6', 15: '8'}
+{0: '3', 14: '6'}
+38 :  3vkdpfdkhpsix96eightgbckkflpq
+
+{29: '3', 12: '8', 17: '9'}
+{28: '9', 35: '1'}
+81 :  drkbpmfkrrzqeightninevgznnmf9three71
+
+{7: '1', 5: '2'}
+{0: '8', 4: '4'}
+81 :  8lpl4twoneff
+
+{9: '8'}
+{5: '6', 21: '8'}
+68 :  gvffv6229eightvbgbhzb8
+
+{11: '1', 14: '8', 20: '8'}
+{10: '3', 25: '8'}
+38 :  xvrzxvxmsv3oneeight8eight8
+
+{0: '4', 26: '2'}
+42 :  4vfnppkqxvbxfktcltspgbnljp2
+
+{2: '2'}
+{0: '4', 1: '3'}
+42 :  43twobgftvc
+
+{10: '4', 7: '6', 22: '9'}
+{6: '4', 21: '7'}
+49 :  sdpmpm4sixfourzlxkfrt7nine
+
+{19: '5', 0: '8'}
+{9: '6', 24: '7'}
+87 :  eightzkxc6nzgjfgmjdfive37jcz
+
+{3: '5'}
+{0: '6', 17: '3'}
+63 :  624fivetxvlrtnnng3
+
+{29: '1', 4: '4', 0: '5', 8: '8'}
+{13: '5'}
+51 :  fivefoureight5xrrvkjflbktjmxsonehlzggjkft
+
+{0: '3', 30: '4', 25: '7'}
+{19: '9'}
+34 :  threextctdxfcmjsqxt9hscbhsevenfour
+
+{29: '7', 34: '8'}
+{17: '3'}
+38 :  sdvmnpdfvsdslcqft3zhdhdbxvbkkseveneight
+
+{7: '1'}
+{4: '5', 5: '2'}
+51 :  npzx52done
+
+{0: '4', 11: '6'}
+{9: '8', 17: '4'}
+44 :  foursggcg88sixzhf4
+
+{0: '1', 4: '4'}
+{3: '2'}
+14 :  one2fourr
+
+{13: '8'}
+{12: '8'}
+88 :  jhjgptzvjhvs8eight
+
+{20: '1', 10: '3', 23: '5', 15: '7'}
+{27: '9'}
+39 :  cdsrpfqmtnthreesevenonefive9
+
+{6: '4', 1: '5'}
+{0: '6', 10: '1'}
+61 :  6five4four1xjjlhgsv
+
+{6: '8', 1: '9'}
+{0: '7', 5: '5'}
+78 :  7nine5eightjbrdlvfphb
+
+{25: '1', 22: '2', 1: '9'}
+{0: '8', 14: '5'}
+81 :  8ninegrhnkhsfc5pstfcrttwoone
+
+{0: '9'}
+99 :  9kpcchc
+
+{0: '7', 5: '8', 10: '9'}
+{14: '2', 15: '4'}
+74 :  seveneightnine24
+
+{2: '2'}
+{0: '9', 1: '1'}
+92 :  91two
+
+{0: '4', 8: '5', 13: '5'}
+{4: '9', 12: '3'}
+45 :  four9vvlfive3five
+
+{0: '3', 16: '4', 21: '6', 39: '7'}
+{20: '5'}
+37 :  threedmxvdqfrhrlfour5sixngmpngxvclcjhcrseven
+
+{0: '3', 18: '5', 12: '7', 5: '3'}
+{10: '3', 22: '6'}
+36 :  threethree36seven1five6
+
+{4: '5', 0: '6'}
+{3: '2'}
+65 :  six2five
+
+{0: '1', 8: '8'}
+{3: '7', 7: '1'}
+18 :  one79581eight
+
+{9: '9'}
+{8: '7', 13: '8'}
+78 :  xsrbppnt7nine8
+
+{18: '1', 26: '7', 21: '9'}
+{5: '6', 25: '3'}
+67 :  lcltq633rvzkkqxfxmonenine3seven
+
+{1: '2'}
+{0: '4', 13: '3'}
+43 :  4two9hnjxpmft3mkzdqcvjpsmnccplcqk
+
+{1: '6'}
+{0: '6', 4: '3'}
+63 :  6six3
+
+{8: '4', 16: '5', 13: '6', 3: '8'}
+{2: '4', 12: '2'}
+45 :  pr4eightfour2sixfivekgvstmktkcbqgz
+
+{0: '4', 4: '7'}
+{31: '1'}
+41 :  foursevenpxgbkrmmcjbvdvqqcrdhbx1zkg
+
+{9: '1', 5: '6'}
+{4: '8', 32: '8'}
+88 :  tkkl8sixvonesztkszlmzbczxgdnnkmn8
+
+{38: '3', 30: '5', 34: '6'}
+{37: '3'}
+53 :  gzptmplvxzmzjqfzrjcmjlzbfdrpfpfivesix3three
+
+{13: '4'}
+{0: '8', 2: '8'}
+84 :  848kphtdjgqfkfourshmzjpfdpsdfzxlldz
+
+{18: '3', 2: '8'}
+{0: '1', 17: '4'}
+13 :  18eightjmlzlfdch64three
+
+{0: '8', 3: '6'}
+86 :  8pf6
+
+{0: '5', 4: '1'}
+51 :  5rt51
+
+{0: '9', 31: '5'}
+95 :  9ffpmlqnbcs7lcsrbczglslhrrphbh55
+
+{17: '5', 6: '6', 21: '8'}
+{9: '7'}
+68 :  lcmllcsix7sbcrrrlfiveeight
+
+{27: '3', 23: '5', 32: '6', 18: '8'}
+{0: '9', 17: '4'}
+96 :  9lbkmqrtfgxjphplc4eightfivethreesixzdpgrkptj
+
+{1: '2'}
+{4: '9'}
+29 :  ltwo9
+
+{7: '1'}
+{6: '3'}
+31 :  jbklfg3oneg
+
+{3: '6'}
+{0: '1', 15: '4'}
+14 :  1g6sixlszmvjmrf4dzvnqcbzh
+
+{0: '8', 20: '4'}
+84 :  8lfxxtmfqslxqjxxshqs4
+
+{6: '5'}
+{5: '6', 10: '2'}
+62 :  xddmf6five2
+
+{3: '8', 14: '8'}
+{0: '4', 2: '4'}
+48 :  454eightnxtlqzeight
+
+{0: '5'}
+55 :  5xgtstcbfg
+
+{21: '3', 1: '7', 9: '7'}
+{0: '2', 14: '5'}
+23 :  2seven7dqseven5hkndsjthree
+
+{15: '3', 0: '7'}
+{13: '2', 14: '4'}
+73 :  sevenncjnrvvf24threezxdzps
+
+{0: '1', 17: '2'}
+{7: '1', 21: '1'}
+11 :  onetfnl1xmlqkrsjbtwo71gbscmnmvnvmjj
+
+{1: '3', 23: '4', 7: '7'}
+{0: '8', 13: '7'}
+84 :  8three8seven27cqxzkpbdzfourhghz
+
+{4: '3'}
+{0: '4', 9: '9'}
+49 :  4kcrthree9
+
+{0: '1', 9: '8'}
+18 :  1dhsvlhzr8ngdb
+
+{8: '1', 21: '6', 28: '8', 24: '9'}
+{11: '4', 33: '7'}
+17 :  cqvfmsdnone4tcfqhpdgzsixnineeight7
+
+{7: '2', 0: '3', 10: '6'}
+{5: '7'}
+36 :  three7mtwosix
+
+{6: '1', 9: '4', 1: '8'}
+{0: '5', 25: '4'}
+54 :  5eightonefourzxlhlhxlbxds4
+
+{10: '9'}
+{0: '8', 7: '9'}
+89 :  8dzvdsp9xgnine
+
+{3: '2'}
+{14: '1'}
+21 :  jzftwosnpgtpqt1
+
+{3: '5', 9: '8'}
+{7: '7', 8: '2'}
+58 :  pdpfive72eight
+
+{23: '2'}
+{7: '7', 17: '8'}
+72 :  lbvvclr71zmfmqjfq8gqmmltwo
+
+{2: '3'}
+{0: '8', 1: '4'}
+83 :  84three
+
+{6: '4', 0: '8'}
+{5: '9', 20: '3'}
+83 :  eight9fourfnzxkqt5ss3
+
+{10: '2', 0: '3', 19: '4', 5: '3'}
+{23: '1', 25: '2'}
+32 :  threethreetworfqzpqfour172
+
+{0: '9'}
+{12: '9', 13: '6'}
+96 :  ninemzxqfzqk96df
+
+{21: '7', 0: '8'}
+{5: '7', 18: '3'}
+87 :  eight7cknshzjlnlcb3kzseven
+
+{6: '7', 0: '8'}
+{5: '9'}
+87 :  eight9seven
+
+{19: '1', 0: '2', 14: '3'}
+{4: '5'}
+21 :  twok5vmxtlpdhvthreeone
+
+{1: '7', 15: '7'}
+{0: '6', 6: '2'}
+67 :  6seven2nmjdbjscsevenvkdmp
+
+{0: '6', 3: '7'}
+{8: '8'}
+68 :  sixseven8
+
+{7: '2', 3: '5', 14: '9', 23: '5', 19: '9'}
+{18: '7'}
+55 :  qslfivetwogvvlnine7ninefive
+
+{19: '6'}
+66 :  nrdcfbqczppphqvqxcd6mz
+
+{12: '4'}
+{0: '7', 25: '5'}
+75 :  78ktndqqlrrlfourcgxpnvdps5
+
+{3: '2', 0: '6'}
+{6: '8', 11: '9'}
+69 :  sixtwo8jrkz9q
+
+{12: '7'}
+{0: '9', 2: '6'}
+97 :  986zhdpnlmlpseven
+
+{1: '6', 13: '8', 8: '9'}
+{0: '1', 12: '8'}
+18 :  1six676rnine8eight
+
+{10: '1', 0: '3', 17: '4', 14: '1'}
+{13: '9'}
+34 :  threebdqknone9onefour
+
+{7: '7'}
+{5: '3', 12: '6'}
+36 :  dmnbb39seven6
+
+{15: '2', 0: '3', 20: '5'}
+{13: '4', 19: '1'}
+35 :  threeqshbxpnm41two41five
+
+{8: '8'}
+{7: '7', 16: '6'}
+76 :  mkdldph7eight7736
+
+{5: '4', 0: '7'}
+{9: '2', 10: '5'}
+75 :  sevenfour25
+
+{1: '5'}
+55 :  p5q
+
+{0: '2', 11: '7'}
+27 :  263rgnrnmn97mbrjfnmgzlrgz
+
+{14: '3'}
+{19: '2', 20: '6'}
+36 :  hmfgzqjtmhmncxthree26csfnggsmnt
+
+{17: '4', 28: '7', 21: '8'}
+{0: '8', 27: '6'}
+87 :  8bzrjhrvdlzxnhctffoureight86sevencjtrpql
+
+{5: '2', 11: '7', 0: '9'}
+{4: '5', 10: '2'}
+97 :  nine5twozl2seven
+
+{25: '8', 44: '8'}
+{30: '8', 49: '5'}
+85 :  bsssxvkksbrgszldgpbfmxqldeight8tqmdvmdgrnclceight5
+
+{8: '6', 1: '7', 11: '9'}
+{0: '2', 15: '5'}
+25 :  2seven41sixnine5
+
+{11: '5'}
+{0: '1', 2: '3'}
+15 :  143lprjcnrzfive
+
+{1: '7'}
+{0: '2', 6: '3'}
+23 :  2seven3
+
+{0: '7', 3: '3'}
+73 :  7853
+
+{0: '4', 11: '9'}
+49 :  46stkfqskgx9
+
+{0: '4', 7: '3'}
+43 :  4pztjcp3pmjnnts
+
+{0: '6'}
+{9: '8'}
+68 :  sixptnckh8t
+
+{2: '7'}
+{0: '8', 1: '4'}
+87 :  84seven
+
+{3: '4'}
+{0: '8', 2: '5'}
+84 :  815four
+
+{7: '9', 12: '1'}
+91 :  pxxvhzc9rtgv1dph
+
+{2: '4', 6: '6'}
+{0: '7', 28: '7'}
+77 :  73foursix4nflbrsvnzmmgmfbpg67
+
+{1: '9', 7: '9'}
+{0: '3', 6: '7'}
+39 :  3nine57ninelzcsqsgrn
+
+{6: '1', 16: '3', 11: '7', 21: '3'}
+{9: '1', 10: '7'}
+13 :  spzldcone17seventhreethreeqlrq
+
+{1: '3', 17: '3'}
+{0: '7', 6: '3'}
+73 :  7three3zmmfvxtsdsthree
+
+{17: '6'}
+{12: '8', 20: '5'}
+85 :  mgvmckndvnpc89jvqsix5
+
+{4: '1', 0: '4'}
+{8: '3', 9: '4'}
+44 :  fouronej34vsrzdgnm
+
+{0: '5', 4: '5'}
+55 :  53g25nkpgckxl
+
+{5: '7', 23: '4'}
+74 :  lhtzx73mhqvgflfkblfjqrb4
+
+{9: '1', 5: '5', 0: '8'}
+{12: '5'}
+85 :  eightfiveone5ktqstpvmszlhhssjbn
+
+{3: '9'}
+{7: '5'}
+95 :  vgznine5s
+
+{0: '5'}
+55 :  5cgp
+
+{8: '9'}
+{0: '6', 30: '1'}
+61 :  6cntgsl4ninemmgcsqntl9mzlvpqjz1
+
+{8: '7'}
+{6: '6', 14: '3'}
+63 :  cpcqqv67seven33
+
+{23: '3', 7: '8'}
+{0: '9', 22: '5'}
+93 :  9jvnlhceightvmtxddxlng5three
+
+{11: '5'}
+{10: '6', 17: '7'}
+67 :  gcfcnpkjcj6five247zn
+
+{0: '1', 16: '8', 11: '9', 21: '1'}
+{15: '1'}
+11 :  onekqqdjdqgnine1eightonesdx
+
+{0: '8', 10: '3'}
+83 :  8qzmdhp9983
+
+{6: '4', 1: '7'}
+{0: '1'}
+14 :  1sevenfour
+
+{7: '2', 11: '6'}
+{10: '7'}
+26 :  qvjfzqstwo7six
+
+{1: '6'}
+{0: '2', 19: '5'}
+25 :  2sixvzvmsc2jczxrlcq5rj
+
+{20: '3', 4: '4', 26: '8', 15: '9'}
+{19: '7', 25: '2'}
+48 :  ptgqfourvqmtglcnine7three2eight
+
+{17: '6', 11: '8'}
+{10: '2', 16: '6'}
+26 :  xkprfrrjqr2eight6sixdkprbtpmpjxfvxtz
+
+{0: '1', 7: '2', 3: '9'}
+{10: '7'}
+17 :  oneninetwo7cdbbrrlnjk
+
+{21: '3', 10: '7', 35: '8'}
+{20: '1', 34: '4'}
+78 :  hvbhdqnpgzsevendjggs1threeglslxpmv4eight
+
+{4: '1', 0: '5', 10: '5'}
+{7: '3', 15: '5'}
+55 :  fiveone348five85
+
+{0: '8', 9: '7'}
+87 :  87fcxflzm7
+
+{3: '1', 11: '7', 5: '8'}
+{10: '9'}
+17 :  jlkoneight9seven
+
+{2: '5', 9: '8'}
+58 :  kx5hjbmqg8
+
+{17: '4', 12: '8'}
+{21: '5'}
+85 :  vgklfrnljrbqeightfour5fhjhdhjgttxntmm
+
+{13: '3', 29: '7'}
+{12: '9'}
+97 :  dtrkgphmlftq9threedmpbgsnsvzvsevenxnx
+
+{8: '4', 3: '9'}
+{0: '1', 7: '8'}
+14 :  113nine8fourmvqqfblbgz
+
+{5: '8'}
+88 :  sdssh8nlzpgqdhvdpxc
+
+{3: '2', 6: '4', 12: '7'}
+{2: '2', 17: '8'}
+28 :  ch2twofour26seven8
+
+{13: '1', 21: '2', 1: '5', 17: '8', 9: '9'}
+{0: '1', 16: '3'}
+12 :  1fivebmxpnineone3eightwojhd
+
+{6: '3', 11: '3'}
+{0: '6', 16: '3'}
+63 :  6xknv3threethree3
+
+{0: '2', 7: '4'}
+{6: '3'}
+24 :  twostx3fourtptgklkfg
+
+{0: '4', 9: '9'}
+{5: '9', 14: '5'}
+45 :  fourh9lxgnine55
+
+{0: '1', 6: '2'}
+{3: '9', 12: '6'}
+16 :  one991two2lf6
+
+{0: '2', 12: '6', 15: '8', 20: '2', 23: '8'}
+{3: '3', 11: '3'}
+28 :  two3jjhcmsd3sixeighttwoeight
+
+{8: '3', 5: '6'}
+{0: '4', 13: '4'}
+44 :  43ms3sixthree4
+
+{17: '1', 1: '4'}
+{0: '9', 21: '1'}
+91 :  9fourfrzrgvxrmkb6onez1
+
+{16: '8'}
+{10: '3', 15: '5'}
+38 :  nvtjhfpbht376pp5eight
+
+{33: '2', 20: '7', 37: '8'}
+{19: '2', 36: '5'}
+28 :  pbtclmsrkxspmmnchlm2sevenpqnksccztwo5eight
+
+{4: '9'}
+{8: '3'}
+93 :  vtcjnine3
+
+{20: '2'}
+{17: '1'}
+12 :  mcvsbgbktgssgkqxs1pztwo
+
+{18: '3'}
+{23: '4', 24: '7'}
+37 :  kvndtblmgqbkzxhmghthree47mtqqjctxtm
+
+{20: '3', 29: '4', 6: '5', 33: '7', 25: '9'}
+{38: '1'}
+51 :  bjkndjfivezctcbhzpffthreeninefourseven1xmfdsr
+
+{10: '9'}
+99 :  rhgshgkmtd9
+
+{3: '2', 0: '6', 14: '6'}
+{17: '7'}
+67 :  sixtwobrnkvrlnsix7mvbp
+
+{0: '2', 21: '3', 16: '4', 7: '5', 3: '9', 11: '5'}
+{15: '8'}
+23 :  twoninefivefive8fourvthree
+
+{2: '3'}
+33 :  kk3
+
+{10: '2', 27: '3', 13: '5'}
+{0: '1'}
+13 :  1xpjcsbnpxtwofivehqvxpgqznlthree
+
+{16: '3', 21: '5', 25: '9'}
+{29: '1', 30: '9'}
+39 :  vbcgppkcjjxqpknfthreefivenine19n
+
+{0: '7', 1: '4'}
+74 :  74jfqfbsjthjkhdzk
+
+{16: '8', 0: '9'}
+{4: '8', 5: '6'}
+98 :  nine86vmclcgfscreighttnmlnsvdpxlkt
+
+{11: '5'}
+{0: '3'}
+35 :  3dxbsctxgntfivehlcbdzgqtxvqddsjdrjnpgjtxhc
+
+{19: '1', 31: '2', 27: '4', 15: '6', 22: '7', 10: '8', 33: '1'}
+{0: '6', 18: '5'}
+61 :  6ftlgzrbfjeightsix5onesevenfourtwoneh
+
+{17: '8', 1: '9'}
+{0: '4', 16: '5'}
+48 :  4ninezcpvppbktl35eight
+
+{0: '4', 5: '5', 11: '9'}
+{4: '7', 15: '2'}
+42 :  four7five27nine2
+
+{16: '5', 11: '7', 20: '9'}
+{0: '5'}
+59 :  5qhbdqjcdtbsevenfivenine
+
+{2: '6'}
+{0: '9', 1: '9'}
+96 :  99six
+
+{28: '1', 26: '2', 20: '3', 0: '4', 4: '5'}
+{19: '9'}
+41 :  fourfivezhgtbmkhxrj9threehtwonebj
+
+{1: '3', 18: '5', 13: '3'}
+{0: '4', 12: '9'}
+45 :  4threethree19threefivetjmcnvpkrfdmhjsnzlv
+
+{1: '7', 10: '9'}
+{0: '7', 29: '5'}
+75 :  7sevenvxmtninefvvprtdhkhxpkth5
+
+{14: '1', 18: '3', 8: '5'}
+{6: '1', 17: '4'}
+13 :  qbmtvl12fiveclone4three
+
+{2: '5'}
+{0: '4', 1: '4'}
+45 :  44fivevpqtslbxkskhftmk
+
+{3: '4', 14: '9'}
+{13: '3'}
+49 :  ltbfourkpbgvx3nine
+
+{6: '1', 8: '1'}
+11 :  zxtmnh111stz
+
+{15: '2', 11: '8'}
+{0: '3'}
+32 :  3tdvhjtfdcheightwobjf
+
+{5: '4', 9: '8', 17: '8'}
+{3: '1', 29: '9'}
+19 :  xrn14foureightspmeightspgmvbs9
+
+{1: '1'}
+11 :  j1
+
+{10: '5', 15: '9'}
+{9: '9', 19: '4'}
+94 :  txsmrhnzf9fiveqnine4
+
+{0: '3', 13: '3'}
+33 :  31znnthgrtzf33dzxtdndbf
+
+{2: '2', 11: '3', 5: '2'}
+{8: '4'}
+23 :  vdtwotwo4zjthree
+
+{18: '2', 12: '3'}
+{0: '1', 21: '7'}
+17 :  17tdhvl4txhjthree9two7
+
+{0: '1', 26: '1'}
+11 :  1nttq8tphmdhbvnhcfqmvtmfxm1zzdcll
+
+{0: '9', 2: '1'}
+91 :  991
+
+{0: '5', 13: '8'}
+58 :  5zxlddbxrpc628
+
+{16: '4'}
+{0: '9', 34: '1'}
+91 :  91dgxjxkrxfxtgzmfourzqlvpqvdbmgxxx1
+
+{10: '1', 5: '7'}
+{3: '9', 13: '6'}
+96 :  tdk94sevenone6
+
+{0: '2', 4: '5', 12: '2', 21: '5'}
+{3: '1'}
+25 :  two1fivembnftwoxqqjzdfivetxxm
+
+{5: '1', 0: '4', 10: '8'}
+{4: '5', 9: '5'}
+48 :  four5one75eight
+
+{0: '8', 5: '8'}
+{10: '8', 17: '7'}
+87 :  eighteight8znlfvz7
+
+{0: '1', 23: '2', 17: '3'}
+{3: '3', 22: '9'}
+12 :  one3trkt77qnkgldtthree9two
+
+{12: '1', 16: '3', 0: '4'}
+{11: '8', 22: '5'}
+45 :  fourdkgjxbf8one3three85
+
+{25: '8'}
+{14: '1'}
+18 :  gkgsldqmndfrvx1tmfchpxsfxeight
+
+{0: '5', 14: '8'}
+{19: '2', 22: '3'}
+53 :  fivevxfdmlrdqseight2zc3
+
+{2: '3', 19: '5'}
+{0: '3', 18: '3'}
+35 :  32threegcznf25jvfn3five
+
+{1: '1', 6: '5'}
+{0: '7', 5: '6'}
+75 :  7one86five
+
+{16: '1', 11: '4', 6: '5'}
+{0: '7', 15: '7'}
+71 :  7vdckjfive8four7one
+
+{0: '6', 3: '8', 12: '9'}
+{8: '5', 16: '4'}
+64 :  sixeight5gcdnine4
+
+{14: '9'}
+{6: '2', 24: '7'}
+27 :  vgnvsv2zhvqkbrninehfkrn87
+
+{3: '1', 15: '2'}
+{18: '6', 20: '5'}
+15 :  fkzonekghrlnmdktwo635
+
+{1: '5', 13: '7', 18: '7'}
+{0: '8', 12: '5'}
+87 :  8fivekrhmdnt5sevenseven
+
+{0: '3'}
+{5: '9', 12: '4'}
+34 :  three96bcvgp4
+
+{10: '5'}
+{6: '1'}
+15 :  jhnvjp1rhrfive
+
+{10: '2', 18: '4', 13: '6'}
+{16: '2'}
+24 :  fpvhhkqmgstwosix2jfour
+
+{0: '6', 13: '7'}
+{22: '5'}
+65 :  sixqfvvbfvljmsevenlzfr5
+
+{10: '3', 16: '4'}
+34 :  xpvdzngsdz3nrvkr4lvhhdvmxq
+
+{15: '5'}
+{0: '8'}
+85 :  8vlxjqpvpqmqnktfive
+
+{7: '7', 13: '1'}
+71 :  pvgxjdb7pqk711
+
+{7: '6', 10: '6'}
+{4: '3', 6: '8'}
+36 :  pqxl3r8sixsixpstcxjtjdrns
+
+{30: '3'}
+{23: '3', 29: '9'}
+33 :  gmmqrkfqrzddtmpnsvzkqnz3zjqbn9threenlm
+
+{9: '4', 4: '8'}
+{0: '2', 13: '4'}
+24 :  2823eightfour4
+
+{0: '2'}
+{3: '5', 14: '8'}
+28 :  two558xqtrtrtf8tnsj
+
+{3: '2'}
+{2: '6'}
+62 :  bv6twonmfttddpf
+
+{7: '1'}
+{0: '1', 11: '8'}
+18 :  17nbtdjone48
+
+{0: '3', 6: '7'}
+{5: '6'}
+37 :  three6sevenzhzstnmlkf
+
+{2: '8'}
+{0: '8', 22: '4'}
+84 :  89eightjlphdkfszlfftq44
+
+{0: '3', 11: '7', 16: '8'}
+{10: '3'}
+38 :  threenxqvz3seveneight
+
+{15: '1', 22: '2', 18: '4', 4: '7', 25: '8', 9: '7'}
+{0: '1', 14: '3'}
+18 :  1lzdsevenseven3onefourtwoeight
+
+{4: '3'}
+{3: '1', 10: '8'}
+18 :  nnd1threez8
+
+{0: '6', 4: '8'}
+{3: '9', 19: '8'}
+68 :  six9eight2nxcxplkdp8
+
+{2: '8', 20: '6'}
+86 :  cd88rkbvmqqlnfqgbbq66
+
+{13: '5', 1: '8'}
+{0: '2', 12: '8'}
+25 :  2eight9cnzrk8five
+
+{0: '1'}
+{5: '7'}
+17 :  onecl7
+
+{6: '5'}
+{22: '3', 23: '1'}
+51 :  vjfsvqfivejhbscnhqkkfk31
+
+{8: '6'}
+66 :  fpqdkcsx6
+
+{14: '2', 0: '9'}
+{13: '3'}
+92 :  ninezztlsddbk3two
+
+{11: '3', 16: '6'}
+{0: '1', 10: '6'}
+16 :  1xmfsfh6726threesix
+
+{9: '1', 1: '4', 13: '7'}
+{0: '6', 12: '7'}
+67 :  6four6196one7seven
+
+{11: '6'}
+{0: '2'}
+26 :  2bpsgvlgcqvsix
+
+{0: '1', 3: '4'}
+14 :  1464hctgxfxzb
+
+{15: '2', 5: '4', 11: '8'}
+{0: '6', 10: '6'}
+62 :  6nhcbfour36eightwohv
+
+{1: '5'}
+{0: '9', 5: '5'}
+95 :  9five5
+
+{12: '7', 0: '8'}
+{5: '7'}
+87 :  eight7dkktqkseven
+
+{13: '2', 9: '4', 16: '5'}
+{7: '5', 8: '6'}
+55 :  pxzxsqz56fourtwofive
+
+{18: '2', 0: '3'}
+{15: '9', 17: '5'}
+32 :  threednzfgdfpmr925two
+
+{10: '8', 18: '5'}
+85 :  kphngkzkpl867zllm95
+
+{2: '3'}
+{0: '3', 16: '2'}
+32 :  39threekthvvqkvm2
+
+{0: '7'}
+{5: '6'}
+76 :  seven6fsqfhltgvqnmghczlrjqnbjstsgprpxfhfphftfnp
+
+{2: '4'}
+{0: '2', 11: '7'}
+27 :  23fourhjtvq7mp
+
+{3: '9'}
+99 :  drq9
+
+{21: '4'}
+{20: '5', 25: '6'}
+56 :  fkqsmgddvxhrjvvtsjlr5four6
+
+{14: '5'}
+{0: '5', 18: '3'}
+53 :  5ngcfsqvlcl7vbfive3
+
+{0: '6', 3: '2'}
+62 :  6372cltztz
+
+{1: '3', 6: '5', 10: '7', 15: '3'}
+{0: '1'}
+13 :  1threefiveseventhree
+
+{0: '1', 4: '9'}
+{3: '5', 18: '1'}
+11 :  one5ninebfdgzhqs581
+
+{3: '4'}
+{7: '9'}
+49 :  hdqfour9
+
+{0: '4'}
+{4: '6'}
+46 :  four6jzfdkdzkrdnnshltjlt
+
+{13: '1', 8: '9'}
+{7: '6', 12: '2'}
+61 :  jlqtqzm6nine2one
+
+{21: '5', 25: '5'}
+{16: '3', 29: '2'}
+32 :  bbvpcplzrbmjvvtm3qhk6fivefive2
+
+{28: '6'}
+{31: '6', 32: '6'}
+66 :  pnclzfmfqcgmkrrtzlbptfnhlpdfsix66hjghhrmpvl
+
+{25: '3', 9: '4'}
+{0: '7', 24: '5'}
+73 :  7sgnbxrkvfour4pqkpdzgmsg5three
+
+{12: '5', 7: '6', 17: '5'}
+{6: '9', 16: '9'}
+95 :  lqgfzc9six57five9fivek
+
+{1: '4'}
+{5: '9'}
+49 :  rfour9
+
+{7: '4', 11: '6'}
+{0: '3'}
+36 :  3sfsgzbfoursix
+
+{16: '1', 12: '5', 1: '6'}
+{0: '5', 20: '3'}
+53 :  5sixsqddmc67fiveone93
+
+{1: '6', 4: '9'}
+{0: '8'}
+89 :  8sixnine
+
+{0: '3'}
+{13: '2', 15: '5'}
+35 :  threecdgvgckq285
+
+{9: '2', 5: '5', 0: '7'}
+{12: '5', 13: '8'}
+78 :  sevenfivetwo58qgq
+
+{16: '1', 1: '3', 12: '4', 19: '5', 7: '8'}
+{0: '4', 23: '2'}
+42 :  4three3eightfouronefive2p
+
+{2: '1', 4: '8'}
+{29: '3', 30: '4'}
+14 :  sroneightgmcbfhpsxdvlfqcvdhhk34
+
+{23: '1', 16: '2', 6: '7', 11: '8', 19: '2'}
+{22: '5', 27: '4'}
+74 :  lxxhdmseveneighttwotwo5one34
+
+{0: '3', 15: '4', 5: '9'}
+{14: '3', 24: '6'}
+36 :  threeninevlvch3fourrvppn6
+
+{0: '4'}
+44 :  4dgjx
+
+{0: '2', 26: '5', 13: '7'}
+{12: '8', 18: '2'}
+25 :  twonpthklzbv8seven2lzbgktjfive
+
+{0: '3', 5: '5', 9: '6'}
+{12: '7'}
+37 :  threefivesix7cnvjqpzrbv
+
+{2: '1', 5: '4', 11: '7'}
+{9: '6', 10: '5'}
+17 :  zdonefour65seven
+
+{19: '3', 0: '9'}
+{4: '5', 18: '6'}
+93 :  nine5vnmhqdntnlkfx6threeztdqpnm
+
+{1: '3'}
+{0: '2', 6: '8'}
+28 :  2three8
+
+{7: '2'}
+{6: '6'}
+62 :  tthqsj6two
+
+{4: '5', 1: '6', 8: '9', 18: '9'}
+{0: '3', 22: '5'}
+35 :  3sixfivenine4pslhjnine5
+
+{0: '1', 5: '8'}
+18 :  1ckvr8
+
+{0: '1'}
+{3: '8'}
+18 :  one8bnvhglghpq
+
+{10: '5', 14: '7', 4: '9'}
+{8: '9', 9: '1'}
+97 :  zvzbnine91fiveseven
+
+{18: '3', 23: '9'}
+{17: '8', 27: '2'}
+82 :  kffpqshlljcjqqlgp8threenine2
+
+{9: '4', 1: '5'}
+{0: '1', 6: '5'}
+14 :  1fivek5qzfour
+
+{3: '3', 10: '5', 15: '6'}
+{8: '1', 20: '7'}
+37 :  fqlthree14five1sixng7
+
+{0: '2'}
+{3: '7', 4: '4'}
+24 :  two74fcrvqjtc
+
+{0: '6', 3: '6'}
+{25: '6'}
+66 :  sixsixhbztdjfcztqrsqccdzb6lfx
+
+{11: '1', 0: '2', 6: '4', 3: '2', 14: '4'}
+{10: '4'}
+24 :  twotwofour4onefourgszqbqlnz
+
+{7: '3', 1: '4'}
+{0: '4'}
+43 :  4fourcjthree
+
+{1: '2', 5: '8'}
+{0: '5', 4: '7'}
+58 :  5two7eight
+
+{16: '5'}
+{20: '6'}
+56 :  zdzsmflkzvxkzvzvfive6
+
+{7: '2'}
+{0: '6'}
+62 :  6vsblnxtwozjmrs
+
+{3: '4', 0: '6'}
+{7: '9', 14: '6'}
+66 :  sixfour95jmzgl6
+
+{8: '2'}
+{11: '1'}
+21 :  jgbpdkmltwo1xzxvvb
+
+{7: '6'}
+66 :  pnvcbnv6jpfkdddglz
+
+{6: '3', 11: '4', 0: '6', 15: '9', 19: '6'}
+{4: '9', 22: '3'}
+63 :  sixz95threefourninesix3
+
+{4: '3', 1: '6', 10: '3'}
+{0: '9', 9: '3'}
+93 :  9sixthree3three
+
+{17: '6', 5: '9'}
+{4: '1', 20: '6'}
+16 :  tbzq1ninemrsfjncvsix6
+
+{43: '1', 20: '3', 31: '4', 25: '6'}
+{19: '8'}
+81 :  zpjxspcmzhkdchhxqcd8threesixhdhfourfxpjzfqbone
+
+{8: '3'}
+{1: '4'}
+43 :  m4cnntxcthree
+
+{2: '1', 25: '3', 9: '4', 18: '8'}
+{0: '3', 1: '8'}
+33 :  38onexslhfourvttrfeightsqthree
+
+{0: '8'}
+{7: '6'}
+86 :  eightng6pcz
+
+{13: '6'}
+{0: '8', 17: '9'}
+89 :  8h1jkprzqdbz9six99
+
+{6: '1', 9: '3'}
+{0: '6', 14: '8'}
+68 :  69nppconethree8
+
+{16: '9'}
+{0: '3'}
+39 :  3qvlktndrrdtjrtmnine
+
+{0: '2', 10: '3', 5: '8'}
+{3: '6', 25: '4'}
+24 :  two62eightthreevjjmtpmmt54
+
+{10: '3', 17: '9'}
+{15: '2', 16: '7'}
+39 :  smgmnkmpktthree27nine
+
+{20: '3'}
+{17: '2'}
+23 :  bdtbhgsdkjfhgrctc2trthree
+
+{12: '1', 7: '3', 0: '6', 4: '6'}
+{3: '9'}
+61 :  six9sixthreeone
+
+{0: '3', 14: '9'}
+{5: '6', 11: '2'}
+39 :  three6kssbz2sgnine
+
+{6: '5'}
+{0: '5', 4: '8'}
+55 :  5kx88xfive
+
+{0: '5', 4: '8'}
+{19: '2', 20: '2'}
+52 :  fiveeightpnfqtzcrkb22
+
+{15: '4', 0: '5', 19: '4', 29: '5'}
+{14: '3', 28: '2'}
+55 :  fivettnmjmlrlb3fourfourjxmsj2five
+
+{5: '2', 25: '4', 21: '6', 1: '8', 29: '8'}
+{8: '9', 24: '3'}
+88 :  xeightwo9cvpbhrgqphgdsix3foureight
+
+{8: '9'}
+{0: '1'}
+19 :  1nhpcsrknine
+
+{13: '1', 16: '2', 9: '4'}
+{7: '1'}
+12 :  gqtxctr1lfouronetwo
+
+{7: '9'}
+{0: '3', 25: '9'}
+39 :  3sjdmn4ninevjpqgjvmzsqv319
+
+{1: '1', 3: '8', 17: '9'}
+{8: '7', 21: '3'}
+13 :  joneight7zphm2hkpnine3szvjtljlqx
+
+{13: '4', 1: '7'}
+{0: '2'}
+24 :  2sevenmmmhvxnfourvvtkpppc
+
+{2: '1', 8: '3', 16: '9', 13: '1'}
+{20: '2'}
+12 :  vloneonethreeonenine2
+
+{13: '6', 8: '7'}
+{0: '9'}
+96 :  9tbsmxpmsevensix
+
+{18: '3', 10: '4', 5: '5', 2: '6', 14: '9'}
+{1: '3', 9: '6'}
+33 :  j3sixfive6fourninethree
+
+{18: '5'}
+{8: '8', 15: '9'}
+85 :  ltmmsrbk8zjbpht9vxfive
+
+{5: '2', 0: '9'}
+{4: '1', 24: '7'}
+97 :  nine1twoxpnsvnzqm3kgkkps7
+
+{5: '3', 0: '8'}
+{10: '5', 11: '9'}
+89 :  eightthree59
+
+{11: '4', 5: '6', 0: '9'}
+{4: '5', 23: '4'}
+94 :  nine5six616fourzmxkjpxr4
+
+{5: '5', 0: '6'}
+{3: '4', 4: '2'}
+65 :  six42fivev
+
+{9: '7', 4: '8'}
+{24: '5'}
+85 :  bgzteightsevencbbpfbbcrc5
+
+{24: '3', 11: '5', 19: '7'}
+{15: '7'}
+53 :  dgmfbzbmlvzfive7pqmseventhree
+
+{12: '1', 8: '5', 0: '6', 3: '7', 24: '5', 19: '7'}
+{28: '3'}
+63 :  sixsevenfiveonehcrbsevenfive3
+
+{0: '2', 17: '4', 21: '6'}
+{15: '4', 16: '2'}
+26 :  twomjspbjhmlsqn42foursix
+
+{1: '2', 11: '4', 19: '5', 5: '7', 15: '9'}
+{0: '8', 10: '6'}
+85 :  8two2seven6fourninefive
+
+{0: '4', 4: '5'}
+{11: '1'}
+41 :  fourfivefvg1
+
+{0: '2', 3: '4'}
+{7: '9'}
+29 :  twofour9
+
+{8: '1'}
+{0: '5', 5: '3'}
+51 :  5vvlk3vfone
+
+{18: '1', 12: '9'}
+{9: '7', 11: '5'}
+71 :  glrnhpdjq715ninehtone
+
+{1: '2', 22: '3', 4: '6', 27: '2'}
+{0: '1'}
+12 :  1twosixmgrnvfmxxcfdtpjthreetwo
+
+{0: '4'}
+{4: '2', 5: '1'}
+41 :  four21
+
+{19: '8'}
+{0: '3', 24: '5'}
+35 :  3bjsrzpnq49ktnmrmlgeight5bvlvqdkcnvrrbvx
+
+{0: '4', 14: '7', 7: '8'}
+{4: '4', 13: '5'}
+47 :  four4z3eight25seven
+
+{10: '3'}
+{0: '6', 15: '7'}
+67 :  66bkdmrjh4three7
+
+{24: '7', 18: '8'}
+{0: '6', 23: '8'}
+67 :  67zgzvldlkx2thgsbseight8seven
+
+{4: '1', 7: '3', 12: '9'}
+{19: '4'}
+14 :  xknjonethreeninezjd4
+
+{2: '2', 5: '4', 11: '8'}
+{0: '1', 10: '4'}
+18 :  17twofour64eightfnzkcgccljnrtnf
+
+{0: '5'}
+{12: '5'}
+55 :  fivebgfpbtdn5f
+
+{10: '2'}
+{9: '9'}
+92 :  ddlkgjmgs9twolxhpcqh
+
+{7: '4', 21: '9'}
+{6: '5', 20: '3'}
+59 :  bgkzkf5fourtlphndsxb3nine
+
+{12: '7'}
+{0: '5', 11: '3'}
+57 :  5srkjggqxmr3seven
+
+{0: '4', 26: '5', 13: '7'}
+{25: '9'}
+45 :  fourksnmcsbcxsevenbnnrnvr9five
+
+{0: '1', 3: '2', 26: '5', 8: '6'}
+{14: '5', 25: '1'}
+15 :  onetwonmsixltg5jztchznvml1five
+
+{6: '1', 14: '2', 17: '5', 1: '7', 10: '9'}
+{0: '3', 9: '9'}
+35 :  3sevenone9ninetwofive
+
+{9: '2', 21: '7', 13: '8'}
+{12: '8', 20: '1'}
+27 :  cqzsvsqrktwo8eight681seven
+
+{0: '6', 4: '8'}
+{3: '5', 19: '9'}
+69 :  six5eightx7lpvlqpcp9
+
+{12: '4', 7: '6', 17: '6'}
+{10: '9', 16: '7'}
+66 :  sbpbrqksix99four7six
+
+{21: '3', 17: '5', 11: '9'}
+{9: '4', 16: '2'}
+43 :  mqcldhrjm49nine62fivethree
+
+{27: '1', 30: '1'}
+{7: '7', 26: '5'}
+71 :  btskhbz7hkqnbhpnb4njbtrssp5oneonebth
+
+{0: '2', 17: '4'}
+24 :  2gtdvj9pbbbppkpg34dcjhbtc
+
+{8: '6', 12: '7'}
+{11: '6'}
+67 :  mtphkzhdsix6seven
+
+{7: '5', 18: '7'}
+{0: '7', 23: '7'}
+77 :  7dmsmrxfive2dmsbkhseven7
+
+{1: '5', 19: '6', 7: '9'}
+{0: '3', 5: '6'}
+36 :  3five6xninezfqndzmtsix
+
+{5: '2'}
+{0: '8', 8: '2'}
+82 :  8mrh5two2
+
+{3: '3'}
+{8: '1', 9: '7'}
+37 :  zcpthree17ggpxmqlk
+
+{5: '3'}
+{0: '9', 1: '7'}
+93 :  97tbtthree
+
+{14: '6'}
+{9: '2'}
+26 :  tcztntvls2cnnlsixqjgkchpkmc
+
+{3: '4', 5: '2'}
+42 :  cjl462mdrxzzt
+
+{24: '3', 15: '5', 10: '7', 20: '5'}
+{19: '7'}
+73 :  bbvhrqfjppsevenfive7fivethree
+
+{6: '6', 7: '5'}
+65 :  mfbmkd65
+
+{17: '3', 13: '9'}
+{0: '3', 22: '7'}
+37 :  3471kmrcckrqgninethree7
+
+{6: '2', 24: '3', 2: '4', 19: '9'}
+{0: '2', 23: '3'}
+23 :  2bfourtwocdhjzqvsxknine3three
+
+{8: '5', 13: '8', 19: '8'}
+{12: '1', 26: '7'}
+57 :  ljzxxfcbfive1eight8eightkx7
+
+{5: '3'}
+{10: '1'}
+31 :  gsdcjthree1
+
+{7: '1'}
+11 :  gmctxtr1jdsl
+
+{14: '3', 20: '5', 9: '6'}
+{12: '4', 19: '1'}
+65 :  rrjtxqqtssix45three1five
+
+{0: '7', 3: '3'}
+73 :  7633
+
+{7: '1', 11: '4', 0: '6'}
+{10: '7', 21: '1'}
+61 :  sixbpsdone7fourrmgzjp1
+
+{17: '7', 23: '9'}
+{0: '2', 27: '9'}
+29 :  26flznhqvrcpzfbqkseven5nine9zfg
+
+{5: '3'}
+{10: '1', 11: '5'}
+35 :  nrqgcthree15dchnrnghkntktfxl
+
+{13: '8', 14: '1'}
+81 :  fzvbvntrhrmcx81nvnfppmz
+
+{5: '1'}
+11 :  qrfzn1sqg
+
+{16: '4'}
+{6: '9', 22: '6'}
+96 :  pcbvps9xhlkjnpgpfoursr6
+
+{0: '6', 2: '7'}
+67 :  6v7
+
+{0: '6', 8: '9', 5: '6'}
+{3: '7', 4: '5'}
+69 :  six75sixninezpsjptdfhkrk
+
+{12: '5', 16: '5'}
+{20: '5'}
+55 :  dlfgjjkfmfngfivefive5lzrcbsz
+
+{0: '6'}
+66 :  6sfgpfg
+
+{18: '1', 1: '4', 14: '9'}
+{0: '5', 13: '2'}
+51 :  5four1bvggfs62nineone
+
+{6: '3', 1: '8'}
+{0: '2', 27: '7'}
+27 :  2eightthreegvqznfjmhdxhblxf7qkxcst
+
+{0: '7'}
+{5: '5', 17: '1'}
+71 :  seven51ldfnhlpvzn1ctlmn
+
+{12: '7'}
+{6: '5', 7: '6'}
+57 :  jxdhkn56vmnxseven
+
+{0: '8', 22: '3'}
+83 :  89fjpcfklprlqkcbxjpdnp3
+
+{10: '1'}
+{13: '3'}
+13 :  lxdgnhqqgvone3
+
+{14: '7', 0: '9'}
+{13: '4'}
+97 :  ninesftqvgbbl4seven
+
+{13: '2'}
+{0: '4', 25: '3'}
+43 :  4pcqqxhghsnn9two8gqrqdzjt3
+
+{7: '2'}
+{0: '2', 19: '5'}
+25 :  2jntsg1two48zbbclss5
+
+{0: '1', 24: '8', 22: '1'}
+{21: '4'}
+18 :  onegcgcrccvsxzvkpfqdj4oneightrgd
+
+{17: '7', 41: '8'}
+{32: '2'}
+78 :  xrpnjjdqxxkqjqjvgsevenjnnkmxxgtl2smcbrlcceight
+
+{3: '1', 0: '6'}
+{6: '4', 7: '3'}
+63 :  sixone43
+
+{23: '3', 19: '4', 1: '9', 6: '9'}
+{0: '2', 38: '2'}
+22 :  2nine1ninejrdzndmqjfourthreegnsxstzjqc2
+
+{6: '1', 3: '2', 10: '6'}
+{9: '2', 17: '3'}
+23 :  rtptwoone2sixlxtn3
+
+{0: '1', 4: '2', 7: '7'}
+{3: '4'}
+17 :  one4twosevenbhbmlt
+
+{1: '5', 5: '8'}
+{10: '4', 14: '2'}
+52 :  xfiveeight41832
+
+{18: '6', 23: '8', 37: '6'}
+{40: '4', 41: '5'}
+65 :  bxgfchvjpgcmmmcchxsixcqeightskxbmscgpsix45
+
+{0: '5', 4: '6'}
+{7: '1', 14: '5'}
+55 :  fivesix17zhcvp5
+
+{8: '1', 11: '4', 23: '5', 17: '8', 27: '1', 29: '8'}
+{15: '7', 22: '8'}
+18 :  jkjmvzjmonefour73eight8fiveoneightczf
+
+{10: '9', 11: '5'}
+95 :  nbsjxlmdzx95
+
+{6: '1', 1: '3', 9: '6'}
+{0: '8', 12: '5'}
+85 :  8threeonesix5rzr
+
+{14: '7', 10: '9'}
+{9: '6', 19: '7'}
+67 :  rxktdsbrr6nineseven7
+
+{20: '1', 1: '2', 22: '8'}
+{0: '4', 19: '4'}
+48 :  4twofvhvl3srvtcgkjm4oneighthx
+
+{0: '3', 1: '9'}
+39 :  39mqbdrf
+
+{1: '7', 19: '9', 6: '7'}
+{0: '8', 23: '1'}
+81 :  8sevenseven79xqtvrznine1
+
+{9: '4'}
+{0: '1'}
+14 :  1sdckgsknfour
+
+{30: '4', 0: '7', 25: '7'}
+{24: '3'}
+74 :  sevendmftpbmfzkctrfdzlhk3sevenfourhqbxcjn
+
+{7: '3', 10: '7'}
+37 :  hxkxzvz3147zksknjrjmvbtbrtm
+
+{5: '3', 8: '8'}
+38 :  xqnjh3518rtgcqggb
+
+{11: '5', 13: '5'}
+55 :  fnzvkdqhpmm555nljnxmdprb
+
+{6: '2', 2: '4'}
+{0: '9', 1: '7'}
+92 :  97fourtwo
+
+{13: '3'}
+{0: '5', 24: '2'}
+52 :  5xhkdtvkgvhvsthreebrvbp72
+
+{35: '3', 23: '5'}
+{3: '4', 22: '9'}
+43 :  jhl48khqkfbxjpgvprhbzp9fivepknpdthvthree
+
+{3: '6'}
+66 :  kjk6
+
+{6: '1', 2: '5', 12: '8'}
+{0: '4', 18: '6'}
+46 :  43fiveonetlzeight16j
+
+{0: '1', 4: '3', 9: '6'}
+{3: '4'}
+16 :  one4threesix
+
+{21: '1', 7: '2', 10: '4', 18: '2'}
+{17: '3', 24: '7'}
+27 :  mtsbnsgtwofourzkn3twoone7
+
+{3: '2'}
+{6: '4', 7: '5'}
+25 :  pmttwo45x
+
+{6: '1', 3: '2'}
+{0: '1', 2: '2'}
+11 :  182twoone
+
+{4: '1', 8: '1'}
+{7: '6', 11: '1'}
+11 :  jpltone6one1
+
+{5: '7', 10: '7'}
+{0: '3', 1: '3'}
+37 :  33jkrsevenseven
+
+{14: '1', 9: '7', 18: '1', 26: '7'}
+{17: '4'}
+77 :  cbtnktlrksevenone4onesevensevensvvxjjgrx
+
+{8: '8', 14: '8'}
+{0: '9', 13: '9'}
+98 :  9zzgsq34eight9eight
+
+{1: '5'}
+{0: '9', 5: '1'}
+91 :  9five1
+
+{0: '3', 25: '4', 20: '3'}
+{29: '6'}
+36 :  threehfjkpxcvnbthreethreefour6
+
+{6: '2', 22: '3', 0: '5', 28: '6', 18: '9'}
+{9: '1', 27: '5'}
+56 :  fivevgtwo1rctjzcrlninethree5six
+
+{1: '1', 4: '2'}
+{0: '1', 18: '1'}
+11 :  1onetwotzhvqgtpnxz1vntznz
+
+{26: '2', 29: '4'}
+{24: '5', 25: '4'}
+54 :  jvvztshjdchbgkcxmjkjghth54twofourrvbl
+
+{0: '1', 13: '4', 3: '6', 7: '7'}
+{6: '4', 12: '7'}
+14 :  onesix4seven7fourdgdsmvldzccqlhrxl
+
+{0: '8', 2: '9'}
+89 :  839hdjjplqgclx
+
+{10: '3', 12: '8'}
+38 :  jqtfgbxkgb368
+
+{6: '5', 1: '7', 14: '7'}
+{0: '6'}
+67 :  6sevenfivedlprsevenc
+
+{26: '1', 29: '2', 18: '6', 31: '1'}
+{0: '6'}
+61 :  6czklmzsmxgmktzxmxsixmnlfxonetwonesgj
+
+{17: '3', 0: '4'}
+{4: '2', 16: '1'}
+43 :  four28sbkrsqcdgl1three
+
+{10: '8'}
+{15: '5', 21: '3'}
+83 :  sllmdpqvvdeight5vtvcz3kthpxgfkbgklxrfm
+
+{0: '1', 4: '6'}
+{3: '5', 7: '6'}
+16 :  one5six6
+
+{6: '5', 20: '8'}
+{0: '3', 26: '4'}
+34 :  3psklrfivefvlxrsghqveight34
+
+{0: '6'}
+66 :  6gkrrpj
+
+{15: '8'}
+{0: '3', 1: '2'}
+38 :  32ddzqvxbpgrlndeight
+
+{19: '2', 6: '6', 0: '9'}
+{4: '1', 22: '9'}
+99 :  nine16sixljvqjsddfstwo9
+
+{20: '1', 15: '6', 0: '8'}
+{18: '2', 23: '5'}
+85 :  eightmpfjpdkhhzsix23one5
+
+{7: '9', 21: '5'}
+95 :  rjnlkfv9txshfcvgzp9875qtqvbjjvbggpvmpqfr
+
+{21: '1'}
+{11: '5', 20: '7'}
+51 :  dvjnqskcqqb5pppfvgcz7one
+
+{15: '2', 0: '3'}
+{26: '4', 27: '3'}
+33 :  threekllssmdxsjtwodzdcxjlk43
+
+{27: '3', 0: '4', 4: '9'}
+{17: '8'}
+43 :  fourninervscfnpgt8xkmkflvtjthree
+
+{10: '3', 15: '6', 19: '9'}
+{18: '2'}
+39 :  xcvpzpfdrtthreesix2nine
+
+{0: '1', 8: '3', 23: '4'}
+{13: '8', 21: '8'}
+14 :  onektssgthree8rjvlkpq8mfour
+
+{0: '2'}
+{13: '8'}
+28 :  twoqqxgqblvmc8tqsrbs
+
+{4: '3', 0: '4', 13: '4'}
+{17: '6'}
+46 :  fourthreejlgkfour6
+
+{4: '6', 0: '9'}
+{7: '8', 8: '7'}
+97 :  ninesix87
+
+{0: '9', 1: '2'}
+92 :  92
+
+{8: '9', 20: '7'}
+97 :  pmzqmmdh9vqvxrxbhglj7
+
+{0: '4'}
+{21: '4'}
+44 :  fourrhhhdmzcbvbldqlmb4
+
+{5: '4', 27: '5', 9: '8'}
+{4: '3', 26: '6'}
+35 :  rtrx3foureightsxlp2mlxtslh6five
+
+{14: '4', 19: '7', 1: '9'}
+{0: '3', 24: '3'}
+33 :  3nineddhmnfngtfour1seven3
+
+{4: '5'}
+55 :  lfnt5
+
+{0: '3', 10: '2'}
+32 :  3kjhffpxlt2
+
+{0: '1', 3: '5'}
+{7: '2', 8: '9'}
+19 :  onefive29htsdkllvr
+
+{6: '4', 11: '8', 2: '9'}
+{10: '4'}
+98 :  tbninefour4eight
+
+{5: '9'}
+{0: '1', 9: '1'}
+11 :  18k62nine1
+
+{25: '5', 0: '7', 31: '7'}
+{5: '6', 30: '9'}
+77 :  seven6sevenphjfhdtnrhfsgcfived9seven
+
+{13: '1', 8: '4', 15: '8'}
+{7: '3', 12: '4'}
+38 :  ttmtqrh3four4oneightrkv
+
+{2: '1', 23: '8'}
+{0: '4', 14: '7'}
+48 :  42onekfbgxgtzl7qxzrmqbmeight
+
+{11: '2'}
+{0: '7'}
+72 :  7fjkfdlmhqxtwoxcpssngss
+
+{9: '1', 27: '3', 32: '5'}
+{12: '4'}
+15 :  gsntbddbnone4cjqjmspzcsxmvvthreefive
+
+{7: '1', 2: '4'}
+{0: '5', 10: '2'}
+52 :  56four4one2
+
+{10: '1'}
+{23: '5'}
+15 :  cqmzqbxzfvonevmmmlxsnjr5zfg
+
+53539
