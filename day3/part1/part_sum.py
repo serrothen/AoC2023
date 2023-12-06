@@ -1,125 +1,136 @@
 #!/usr/bin/env python3
 
-fname = "test.txt"
-#fname = "input.txt"
+def lookaround(loc,view,is_part):
+    """Check surrounding symbols."""
+
+    try: 
+        if (view[0][loc-1]!="." and not view[0][loc-1].isnumeric()):
+            is_part = True
+        elif (view[1][loc-1]!="." and not view[1][loc-1].isnumeric()):
+            is_part = True
+        elif (view[2][loc-1]!="." and not view[2][loc-1].isnumeric()):
+            is_part = True
+    except IndexError:
+        print("left edge")
+    
+    if (view[0][loc]!="." and not view[0][loc].isnumeric()):
+        is_part = True
+    elif (view[2][loc]!="." and not view[2][loc].isnumeric()):
+        is_part = True
+    
+    try:
+        if (view[0][loc+1]!="." and not view[0][loc+1].isnumeric()):
+            is_part = True
+        elif (view[1][loc+1]!="." and not view[1][loc+1].isnumeric()):
+            is_part = True
+        elif (view[2][loc+1]!="." and not view[2][loc+1].isnumeric()):
+            is_part = True
+    except IndexError:
+        print("right edge")
+
+    return is_part
+
+
+def print_contrib(loc,view,contrib):
+    """Print parts and their environment."""
+
+    lc = len(contrib)
+    # top row
+    try:
+        print(view[0][loc-lc-1],end="")
+    except IndexError:
+        print("left edge")
+    print(view[0][loc-lc:loc],end="")
+    try:
+        print(view[0][loc],end="")
+    except IndexError:
+        print("right edge")
+    print()
+
+    # center row
+    try:
+        print(view[1][loc-lc-1],end="")
+    except IndexError:
+        print("left edge")
+    print(contrib,end="")
+    try:
+        print(view[1][loc],end="")
+    except IndexError:
+        print("right edge")
+    print()
+
+    # bottom row
+    try:
+        print(view[2][loc-lc-1],end="")
+    except IndexError:
+        print("left edge")
+    print(view[2][loc-lc:loc],end="")
+    try:
+        print(view[2][loc],end="")
+    except IndexError:
+        print("right edge")
+    print()
+    print()
+
+
+def scan_line(view,part_sum):
+    """Scan line for parts."""
+
+    is_part = False
+    number = []
+    for ii,symbol in enumerate(view[1]):
+
+        if (symbol.isnumeric()):
+            number.append(symbol)
+            if (not is_part):
+                is_part = lookaround(ii,view,is_part)
+        else:
+            if (is_part):
+                part_sum += int("".join(number))
+#                print_contrib(ii,view,"".join(number))
+            is_part = False
+            number = []
+
+    if (is_part):
+        part_sum += int("".join(number))
+#        print_contrib(ii,view,"".join(number))
+
+#    print()
+
+    return part_sum
+
+
+#fname = "test.txt"
+fname = "input.txt"
 
 part_sum = 0
 view = []
 with open(fname,"r") as file:
+
+    # first line
     line = next(file)
-    view.append(line)
+    view.append("."*len(line))
+    view.append(line.strip())
     line = next(file)
-    view.append(line)
-    # upper left corner
-    if (symbol.isnumeric()):
-        if (view[0][1]!="." and not view[0][1].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[1][0]!="." and not view[1][0].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[1][1]!="." and not view[1][1].isnumeric()):
-            part_sum += int(symbol)
-    # upper edge
-    for ii,symbol in enumerate(view[0][1:-1]):
-        if (symbol.isnumeric()):
-            if (view[0][ii-1]!="." and not view[0][ii-1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[0][ii+1]!="." and not view[0][ii+1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[1][ii-1]!="." and not view[1][ii-1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[1][ii]!="." and not view[1][ii].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[1][ii+1]!="." and not view[1][ii+1].isnumeric()):
-                part_sum += int(symbol)
-    # upper right corner
-    if (symbol.isnumeric()):
-        if (view[0][-2]!="." and not view[0][-2].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[1][-1]!="." and not view[1][-1].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[1][-2]!="." and not view[1][-2].isnumeric()):
-            part_sum += int(symbol)
-    line = next(file)
-    view.append(line)
-    # left edge
-    if (symbol.isnumeric()):
-        if (view[0][0]!="." and not view[0][0].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[0][1]!="." and not view[0][1].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[1][1]!="." and not view[1][1].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[2][0]!="." and not view[2][0].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[2][1]!="." and not view[2][i1].isnumeric()):
-            part_sum += int(symbol)
-    
-    # center
-    for ii,symbol in enumerate(view[1][1:-1]):
-        if (symbol.isnumeric()):
-            if (view[0][ii-1]!="." and not view[0][ii-1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[0][ii]!="." and not view[0][ii].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[0][ii+1]!="." and not view[1][ii+1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[1][ii-1]!="." and not view[1][ii-1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[1][ii+1]!="." and not view[1][ii+1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[2][ii-1]!="." and not view[2][ii-1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[2][ii]!="." and not view[2][ii].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[2][ii+1]!="." and not view[2][ii+1].isnumeric()):
-                part_sum += int(symbol)
-    # right edge
-    for ii,symbol in enumerate(view[1][1:-1]):
-        if (view[0][-2]!="." and not view[0][-2].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[0][-1]!="." and not view[0][-1].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[1][-2]!="." and not view[1][-2].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[2][-2]!="." and not view[2][-2].isnumeric()):
-            part_sum += int(symbol)
-        elif (view[2][-1]!="." and not view[2][-1].isnumeric()):
-            part_sum += int(symbol)
-    
-     for line in file:
-         view[0] = view[1]
-         view[1] = view[2]
-         view[2] = line
-    
-         for ii,symbol in enumerate(view[1][1:-1]):
-             if (symbol.isnumeric()):
-                 if (view[0][ii-1]!="." and not view[0][ii-1].isnumeric()):
-                     part_sum += int(symbol)
-                 elif (view[0][ii]!="." and not view[0][ii].isnumeric()):
-                     part_sum += int(symbol)
-                 elif (view[0][ii+1]!="." and not view[0][ii+1].isnumeric()):
-                     part_sum += int(symbol)
-                 elif (view[1][ii-1]!="." and not view[1][ii-1].isnumeric()):
-                     part_sum += int(symbol)
-                 elif (view[1][ii+1]!="." and not view[1][ii+1].isnumeric()):
-                     part_sum += int(symbol)
-                 elif (view[2][ii-1]!="." and not view[2][ii-1].isnumeric()):
-                     part_sum += int(symbol)
-                 elif (view[2][ii]!="." and not view[2][ii].isnumeric()):
-                     part_sum += int(symbol)
-                 elif (view[2][ii+1]!="." and not view[2][ii+1].isnumeric()):
-                     part_sum += int(symbol)
-    
-    # lower edge
-    for ii,symbol in enumerate(view[2][1:-1]):
-        if (symbol.isnumeric()):
-            if (view[2][ii-1]!="." and not view[2][ii-1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[2][ii+1]!="." and not view[2][ii+1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[1][ii-1]!="." and not view[1][ii-1].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[1][ii]!="." and not view[1][ii].isnumeric()):
-                part_sum += int(symbol)
-            elif (view[1][ii+1]!="." and not view[1][ii+1].isnumeric()):
-                part_sum += int(symbol)
+    view.append(line.strip())
+
+    part_sum = scan_line(view,part_sum)
+
+
+    # center line
+    for line in file:
+        view[0] = view[1]
+        view[1] = view[2]
+        view[2] = line.strip()
+
+        part_sum = scan_line(view,part_sum)
+        
+
+    # last line
+    view[0] = view[1]
+    view[1] = view[2]
+    view[2] = "."*len(view[1])
+
+    part_sum = scan_line(view,part_sum)
+
+print(part_sum)
